@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>JavaScript Example Page</title></head>
+<body>
+    <h1 id="header1">A Web Page</h1>
+    <p id="demo">A Paragraph </p>
+        <button type="button" onclick="myFunction()">Button to Run myFunction</button>
+        <script>
+            function myFunction() {
+                document.getElementById("demo").innerHTML = "Paragraph has changed content and style.";
+                document.getElementById("demo").style.fontSize = "35px";
+            }
+            var data = Date();
+            document.getElementById("header1").innerHTML = "Today's Date is: " + data;
+            document.getElementById("demo").innerHTML = "I've changed the paragraph content";
+        </script>
+        
+</body>
+</html>
