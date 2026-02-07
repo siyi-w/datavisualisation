@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<title>Mapbox Example 3 - Add Tube Station Proportional Circles Layer</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.18.0/mapbox-gl.css"
+rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.18.0/mapbox-gl.js"></script>
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%;}
+</style>
+</head>
+<body>
+<div id='map'></div>
+<script>
+mapboxgl.accessToken =
+'pk.eyJ1IjoiZHVuY2FuMjAwMSIsImEiOiIyRDhtOE1nIn0.OA5QmCprkPbOoxZog8HIow'; // Put your Mapbox Public Access token here
+// Load a new map in the 'map' HTML div
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/duncan2001/cjb5126wu17g52spxin20qohu', // stylesheet location
+center: [-0.1, 51.5], // starting position [lng, lat]
+zoom: 12 // starting zoom
+});
+map.on('load', function() { // This is our first example of asynchronous JS. We can only add additional layers after the map has loaded
+// Add the circle layer to the map
+map.addLayer({
+id: 'TubeEntryExit2', // Name of the layer. Reused in the labels layer below, as both use same source
+type: 'circle',
+source: {
+type: 'vector',
+url: 'mapbox://duncan2001.6m6oh4j2' // Your Mapbox tileset Map ID
+},
+'source-layer': 'TubeEntryExit-bbdzws', // name of tileset layer
+'layout': {
+'visibility': 'visible'
+},
+paint: {
+'circle-color': '#008080',
+'circle-opacity': 0.95,
+'circle-radius': {
+property: 'EE2024', // The data column used for the circle radius. EE2024 is total annual entries and exits 2024 stops: [ // The circle radius varies according to the zoom level and the number of passengers
+// [{zoom: 9, value: 0}, 1],
+// [{zoom: 9, value: 100}, 8],
+// [{zoom: 12, value: 0}, 3],
+// [{zoom: 12, value: 100}, 60],
+// [{zoom: 16, value: 0}, 4],
+// [{zoom: 16, value: 100}, 200],]
+}}
+});
+map.addLayer({ // Add label layer to the map
+'id': 'labels',
+'type': 'symbol',
+'source': 'TubeEntryExit2', // uses Tileset ID defined the circle layer
+// above
+'source-layer': 'TubeEntryExit-bbdzws', // name of tilesets
+'layout': {
+'text-field': '{EE2024}m', // Labels use data variable EE2024
+'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+'text-size': {
+stops: [[8, 0], [12.5, 0], [12.6, 12], [16, 20]]
+}
+},
+'paint': {
+'text-color': 'rgba(255,255,255,0.9)',
+'text-halo-width': 2, // Text halo is a text outline to help visibility
+'text-halo-color': 'rgba(70,70,70,0.6)'
+}
+});
+});
+</script>
+
+</body>
+</html>
