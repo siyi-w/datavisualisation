@@ -1,0 +1,53 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing,fme_feature_type.total_count
+V22 Orpington,Church Hill,Orpington,,Bromley,https://v22collection.com/v22-orpington-priory/,100023528323,E09000006,Orpington,E05014001,51.379099,0.10493216,546587.1776999999,166551.88759999909,52
+Odeon Beckenham,,The High Street,BR3 1DY,Bromley,,10003626016,E09000006,Beckenham Town & Copers Cope,E05013987,51.407108,-0.03140273,537016.1731000002,169403.0859999992,52
+Vue Bromley ,,,,Bromley,,,E09000006,Bromley Town,E05013991,51.39974,0.01486,540256.1490000002,168671.15819999948,52
+Everyman Crystal Palace  ,,,,Bromley,,,E09000006,Crystal Palace & Anerley,E05013995,51.4191,-0.07908,533665.4364999998,170648.58620000072,52
+Churchill Theatre: Magpie Dance,118 High Street,,,Bromley,http://www.magpiedance.org.uk,100022886981,E09000006,Bromley Town,E05013991,51.403765,0.014474247,540217.0181999998,169118.0066999998,52
+Langley Park Centre for the Performing Arts,Hawksbrook Lane,South Eden Park Road,Beckenham,Bromley,http://www.lpsb.org.uk,100022894311,E09000006,Kelsey & Eden Park,E05013999,51.38893001,-0.01894751,537937.0119000003,167405.00329999998,52
+Chantry Studios,20 Chantry Lane,,,Bromley,http://chantry-studios.co.uk,100022892183,E09000006,Bromley Common & Holwood,E05013990,51.39213619,0.034346311,541635.0121999998,167863.00200000033,52
+Dance Box Bromley,28-30 The Mall,,,Bromley,http://danceboxstudios.co.uk/classes/,100022887397,E09000006,Bromley Town,E05013991,51.40228393,0.016407564,540356.0195000004,168957.0075000003,52
+Studio 74 LTD,The Hall,St Augustines Avenue,Bromley,Bromley,http://www.studio74dance.co.uk,100022892160,E09000006,Bickley & Sundridge,E05013988,51.39012657,0.043384487,542270.0120000001,167657.00180000067,52
+Bishop Justus Church of England School,Magpie Hall Lane,,,Bromley,http://www.bishopjustus.bromley.sch.uk,10013149314,E09000006,Bromley Common & Holwood,E05013990,51.38245296,0.045098174,542413.0114000002,166807.00210000016,52
+Dance Company Studios,76 High Street,,,Bromley,http://www.dancecompanystudios.co.uk,100022892873,E09000006,Beckenham Town & Copers Cope,E05013987,51.40833629,-0.025341805,537434.0115999999,169551.00349999964,52
+Churchill Theatre: Magpie Dance,118 High Street,,,Bromley,http://www.magpiedance.org.uk,100022886981,E09000006,Bromley Town,E05013991,51.403765,0.014474247,540217.0181999998,169118.0066999998,52
+Langley Park Centre for the Performing Arts,Hawksbrook Lane,South Eden Park Road,Beckenham,Bromley,http://www.lpsb.org.uk,100022894311,E09000006,Kelsey & Eden Park,E05013999,51.38893001,-0.01894751,537937.0119000003,167405.00329999998,52
+Duet Dance ,Royston Hall,85 Royston Rd,,Bromley,https://duetdance.co.uk/, 100020442467,E09000006,Penge & Cator,E05014002,51.409465,-0.050843277,535657.1836000001,169629.05489999987,52
+Foreman & Beatty (Diamond Mounters) Limited,18 Royal Parade,Chislehurst,,Bromley,,100022901069,E09000006,Chislehurst,E05013993,51.41064938,0.077975985,544611.9670000002,170006.79099999927,52
+Biggin Hill Memorial Library and Pool,,,,Bromley,,10070007971,E09000006,Biggin Hill,E05013989,51.31170065,0.036318182,542020.3836000003,158922.54580000043,52
+West Wickham Library,,,,Bromley,,100022897598,E09000006,West Wickham,E05014008,51.37533193,-0.012306129,538440.0224000001,165905.34809999913,52
+Hayes Library,,,,Bromley,,100022891892,E09000006,Hayes & Coney Hall,E05013998,51.37686239,0.019678625,540661.3202,166136.31770000048,52
+Orpington Library,,,,Bromley,,10070009943,E09000006,Orpington,E05014001,51.375607,0.102773528,546448.1007000003,166159.25809999928,52
+Southborough Library,,,,Bromley,,100022892170,E09000006,Bromley Common & Holwood,E05013990,51.38938336,0.044998489,542384.6043999996,167577.48409999907,52
+Petts Wood Library,,,,Bromley,,100022897997,E09000006,Petts Wood & Knoll,E05014003,51.38948409,0.072531624,544299.8674999997,167642.4634000007,52
+Shortlands Library,,,,Bromley,,100022891493,E09000006,Shortlands & Park Langley,E05014005,51.39924941,-0.005589835,538835.1715000002,168577.7251999993,52
+Bromley Central Library,,,,Bromley,,100022886980,E09000006,Bromley Town,E05013991,51.40324078,0.016066784,540329.3874000004,169062.75699999928,52
+St Pauls Cray Library,,,,Bromley,,100022898290,E09000006,St Paul's Cray,E05014007,51.40401746,0.104867667,546503.1308000004,169322.73409999907,52
+Beckenham Library,,,,Bromley,,10003628986,E09000006,Clock House,E05013994,51.40810746,-0.03534684,536738.8963000001,169506.86840000004,52
+Penge Library,,,,Bromley,,10070007380,E09000006,Penge & Cator,E05014002,51.41339872,-0.049516924,535737.7836999996,170068.9349000007,52
+Burnt Ash Library,,,,Bromley,,100022890161,E09000006,Plaistow,E05014004,51.4192948,0.021290019,540643.3958999999,170857.9489999991,52
+Chislehurst Library,,,,Bromley,,100022901114,E09000006,Chislehurst,E05013993,51.41951611,0.066352567,543775.8361,170969.90550000034,52
+Made Up Ltd,Gardner Industrial Estate,18/19 Kent House Lane,Beckenham,Bromley,https://madeupltd.com/fabrications/,100023633009,E09000006,Penge & Cator,E05014002,51.423289,-0.038057586,536505.1946,171189.99129999988,52
+Crystal Palace Museum,Anerley Hill,NA,NA,Bromley,www.crystalpalacemuseum.org.uk/,100023247277,E09000006,Crystal Palace & Anerley,E05013995,51.41925428,-0.075116344,533940.5738000004,170672.9785999991,52
+romley Historic Collections (at Bromley Central Libra,Â High St,Bromley,NA,Bromley,NA,100022886980,E09000006,Bromley Town,E05013991,51.40324078,0.016066784,540329.3874000004,169062.75699999928,52
+Bethlem Museum of the Mind,Bethlem Royal Hospital,Monks Orchard Road,NA,Bromley,http://museumofthemind.org.uk/,100022894353,E09000006,Kelsey & Eden Park,E05013999,51.38039353,-0.028155004,537321.9030999998,166438.4609999992,52
+Down House,Down House,Luxted Road,Â Downe,Bromley,www.english-heritage.org.uk/darwin/,100023633852,E09000006,Darwin,E05013996,51.33089928,0.055057521,543266.5067999996,161093.69129999913,52
+Biggin Hill Memorial Museum,Main Road,Kent,TN16 3EJ,Bromley,https://bhmm.org.uk/,10070018882,E09000006,Biggin Hill,E05013989,51.327177,0.02357799,541085.0099,160618.8370999992,52
+Bethlem Gallery,Bethlem Royal Hospital,Monks Orchard Road,,Bromley,http://bethlemgallery.com/#,10003615210,E09000006,Kelsey & Eden Park,E05013999,51.38084,-0.02937,537236.0218000002,166485.83880000003,52
+Ripley Arts Center (Bromley Arts Trust),24 Sundridge Avenue Bromley,,24 Sundridge Avenu,Bromley,http://www.bromleyarts.com/ripley-arts-centre/,0,E09000006,Plaistow,E05014004,51.41248263,0.023909639,540846.477,170105.46839999966,52
+Goldsmiths Arms,3 Croydon Road,,3 Croydon Road,Bromley,www.goldsmithsarms.com,100000000000,E09000006,Penge & Cator,E05014002,51.41278419,-0.050420409,535676.7753999997,169998.92760000005,52
+Vuvu Club,30 East Street,,30 East Street,Bromley,,10070003296,E09000006,Bromley Town,E05013991,51.40660746,0.017983696,540452.3970999997,169440.79609999992,52
+Verve,1 Upper St Martins Lane; West End; London WC2H 9NY,,,Bromley,http://www.addverve.com,100000000000,E09000006,Kelsey & Eden Park,E05013999,51.393127,-0.017197,538046.1966000004,167875.0133999996,52
+Grape & Grain,2 Anerley Hill,,2 Anerley Hill,Bromley,www.thegrapeandgrainse19.co.uk,100000000000,E09000006,Crystal Palace & Anerley,E05013995,51.41916531,-0.076270829,533860.5639000004,170660.97589999996,52
+Vuvu Club,30 East Street,,30 East Street,Bromley,,10070003296,E09000006,Bromley Town,E05013991,51.40660746,0.017983696,540452.3970999997,169440.79609999992,52
+Verve,1 Upper St Martins Lane; West End; London WC2H 9NY,,,Bromley,http://www.addverve.com,100000000000,E09000006,Kelsey & Eden Park,E05013999,51.393127,-0.017197,538046.1966000004,167875.0133999996,52
+St Edward's Church Mottingham,35 St Keverne Road,London,,Bromley,https://www.stedwardsmottingham.org.uk,100023283320,E09000006,Mottingham,E05014000,51.427296,0.047864414,542466.1875,171798.95109999925,52
+Europa International ,Europa House, Meaford Way,,Bromley,http://www.europainternational.com,100023252301,E09000006,Penge & Cator,E05014002,51.41443104,-0.06077792,534951.6897,170162.93740000017,52
+A Construction Production,Unit 3a Holmshaw Farm,Layham’s Road,,Bromley,https://aconstructionproduction.com/,See notes,E09000006,Darwin,E05013996,51.3389,0.00212,539554.5012999997,161881.36050000042,52
+Footprint Scenery,"Unit 9, Klinger Industrial Park",10 Edgington Way,Sidcup,Bromley,http://footprintscenery.co.uk,No UPRN,E09000006,St Paul's Cray,E05014007,51.41348,0.1242,547817.2039999999,170413.76479999907,52
+Simon Morris Associates Limited (SMA),Ravensquay Business Centre  Cray Avenue,,,Bromley,http://www.madesignstudios.com,100023631486,E09000006,St Mary Cray,E05014006,51.38806247,0.110345208,546935.1458,167559.48640000075,52
+Footprint Scenery,"Unit 9, Klinger Industrial Park",10 Edgington Way,Sidcup,Bromley,http://footprintscenery.co.uk,No UPRN,E09000006,St Paul's Cray,E05014007,51.41348,0.1242,547817.2039999999,170413.76479999907,52
+Bridge House Theatre,2 High St,,,Bromley,https://www.bhtheatre.com/,100020437216,E09000006,Crystal Palace & Anerley,E05013995,51.41858406,-0.062230219,534838.4951999998,170622.07579999976,52
+Churchill Theatre,High Street, Bromley,,Bromley,https://churchilltheatre.co.uk/,100023034034,E09000006,Bromley Town,E05013991,51.40428912,0.012855665,540102.8403000003,169173.19779999927,52
+Bromley Little Theatre,North Street, Bromley,,Bromley,http://bromleylittletheatre.org/,100022887041,E09000006,Bromley Town,E05013991,51.40821467,0.013632498,540144.8650000002,169611.1992000006,52
+Theatre 62,Wickham Theatre Centre, Corkscrew Hill, West Wickham,Bromley,https://theatre62.wordpress.com/,100022897636,E09000006,West Wickham,E05014008,51.37342259,-0.011943755,538470.9907999998,165693.7064999994,52

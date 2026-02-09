@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Where are the cultural facilities in London?</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.17.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.17.0/mapbox-gl.js"></script>
+    <link href='MapboxHousePrice_example_styles.css' rel='stylesheet' />  // Add external stylesheet that styles the legend
+    
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+    <div id='map'></div>
+
+
+<div class='map-overlay'>  <!-- This div contains the legend information and data attribution -->
+    <div class='map-overlay-inner'>
+        <h1 id="title">Where are the cultural facilities in London?</h1>
+        <p> Density per km2, London 2023. Data source: <a href="https://data.london.gov.uk/dataset/cultural-infrastructure-map-2ko88/">Land Registry</a>, Crown &copy;. Map Design: Siyi Wu Data scale: Wards.</p>
+        	<table id="legendValues">
+                <tr><td class="colsq" style="background-color:#cccccc;">&nbsp;</td><td class="value">&nbsp;0 ;</td></tr>
+                <tr><td class="colsq" style="background-color:#3a3dd4;">&nbsp;</td><td class="value">&nbsp;0 - 0.22</td></tr>
+                <tr><td class="colsq" style="background-color:#8075f5;">&nbsp;</td><td class="value">&nbsp;0.22 - 0.45</td></tr>
+                <tr><td class="colsq" style="background-color:#c2aad7;">&nbsp;</td><td class="value">&nbsp;0.45 - 0.70</td></tr>
+                <tr><td class="colsq" style="background-color:#e4e0f5;">&nbsp;</td><td class="value">&nbsp;0.70 - 1.30</td></tr>
+                <tr><td class="colsq" style="background-color:#ffee96;">&nbsp;</td><td class="value">&nbsp;1.30 - 2.25</td></tr>
+                <tr><td class="colsq" style="background-color:#ffd500;">&nbsp;</td><td class="value">&nbsp;2.25 - 3.75</td></tr>
+                <tr><td class="colsq" style="background-color:#ff9400;">&nbsp;</td><td class="value">&nbsp;3.75 - 7.00</td></tr>
+                <tr><td class="colsq" style="background-color:#ff5900;">&nbsp;</td><td class="value">&nbsp;7.00 - 15.00</td></tr>
+                <tr><td class="colsq" style="background-color:#ff2200;">&nbsp;</td><td class="value">&nbsp;15.00+</td></tr>
+	        </table>
+	</div>
+</div>
+
+<div id="NAME" class="map-overlay-inner"></div>
+
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1Ijoic2lzaXlpIiwiYSI6ImNta3BhaGR2NzBjcW0zZnFuaHlxMmJnNncifQ._LxPjn0Bf-Xp3vEUGSwRgQ'; // Put your Mapbox Public Access token here
+
+    // Load a new map in the 'map' HTML div
+    var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/sisiyi/cmldvws6g001k01qt3yr0faml', // location of the stylesheet with the house price data layers included
+    center: [-0.12, 51.5], // starting position [lng, lat]
+    zoom: 9.5, // starting zoom
+    hash: true
+    });
+
+ map.addControl(new mapboxgl.NavigationControl());
+ map.addControl(new mapboxgl.ScaleControl(), 'bottom-right');
+// disable map rotation using right click + drag
+map.dragRotate.disable();       
+// disable map rotation using touch rotation gesture
+map.touchZoomRotate.disableRotation();
+
+map.on('load', function() {
+ map.addLayer({
+  id: 'wards',
+  type: 'fill',
+  source: {
+    type: 'vector',
+    url: 'mapbox://sisiyi.0y5vne9h'
+  },
+  'source-layer': 'density2-85m5iw',
+  layout: {
+    visibility: 'visible'
+  },
+  paint: {
+    'fill-color': '#ffffff',
+    'fill-opacity': 0
+  }
+ });
+ map.addLayer({
+  id: 'wards-highlight',
+  type: 'line',
+  source: {
+    type: 'vector',
+    url: 'mapbox://sisiyi.0y5vne9h'
+  },
+  'source-layer': 'density2-85m5iw',
+  paint: {
+    'line-color': '#000',
+    'line-width': 3
+  },
+  filter: ['==', 'NAME', '']
+ });
+
+ map.on('mousemove', function (e) {
+
+  var features = map.queryRenderedFeatures(e.point, {
+    layers: ['wards']
+  });
+
+  if (features.length > 0) {
+
+    var wardName = features[0].properties.NAME;
+    var density = features[0].properties.are_km2;
+
+    map.setFilter('wards-highlight', [
+      '==',
+      'NAME',
+      wardName
+    ]);
+
+    document.getElementById('NAME').innerHTML =
+      wardName + '<br />Density: ' + density + ' / km²';
+
+  } else {
+    map.setFilter('wards-highlight', ['==', 'NAME', '']);
+    document.getElementById('NAME').innerHTML = 'Hover over a ward';
+  }
+ });
+
+ 
+
+
+
+    
+    });
+</script>
+
+</body>
+</html>

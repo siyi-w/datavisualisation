@@ -1,0 +1,513 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing,fme_feature_type.total_count
+Alpine Club Archives,55/56 Charlotte Road, ,EC2A 3QF,Hackney,http://www.alpine-club.org.uk/ac2/ac-media/archive,10008348373,E09000012,Hoxton East & Shoreditch,E05009377,51.52591939,-0.080662628,533244.0118000004,182524.0019000005,511
+British Plastics Federation,5 - 6 Bath Place ,Rivington Street ,EC2A 3JE,Hackney,http://www.bpf.co.uk/,10008338301,E09000012,Hoxton East & Shoreditch,E05009377,51.52631281,-0.082722063,533100.0119000003,182564.00200000033,511
+Campaign for Better Transport ,16 Waterside ,44-48 Wharf Road ,N1 7UX,Hackney,https://bettertransport.org.uk/,10008319406,E09000012,Hoxton West,E05009378,51.5319723,-0.096152741,532152.0133999996,183168.9989,511
+Museum of the Home (formerly Geffrye Museum) ,Kingsland Road, ,E2 8EA,Hackney,https://www.geffrye-museum.org.uk/,100000000000,E09000012,Haggerston,E05009375,51.53155722,-0.076244067,533534.0126999998,183158.9985000007,511
+Hackney Archives,Dalston CLR James Library and Hackney Archives ,Dalston Square  Dalston Lane,E8 3BQ,Hackney,https://hackney.gov.uk/article/3498/Archives-and-local-history,,E09000012,Dalston,E05009370,51.54613,-0.07417,533635.1979,184783.3367999997,511
+"Hackney Public Libraries, Stoke Newington District Li", Church Street,Stoke Newington ,N16 OJS,Hackney,https://www.hackney.gov.uk/stoke-newington-library,100000000000,E09000012,Clissold,E05009369,51.5616189,-0.082795826,532992.0121999998,186490.00290000066,511
+Livability (Shaftesbury Society),50 Scrutton Street, ,EC2A 4XQ,Hackney,https://livability.org.uk/about-us/history-and-track-record/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52326552,-0.081149086,533218.0116999997,182228.00170000084,511
+Museum of London: London Archaeological Archive and R,Mortimer Wheeler House ,46 Eagle Wharf Road ,N1 7ED,Hackney,https://www.museumoflondon.org.uk/collections/other-collection-databases-and-libraries/museum-london-arc,100000000000,E09000012,Hoxton West,E05009378,51.53473431,-0.090702331,532522.0126999998,183485.99990000017,511
+National Society for the Prevention of Cruelty to Chi,Library and Information Service Weston House 42 Cu, ,EC2A 3NH,Hackney,https://www.nspcc.org.uk/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52340481,-0.080126923,533288.5116999997,182245.35270000063,511
+Railfuture,207 The Colourworks ,2 Abbot Street ,E8 3DP,Hackney,https://www.railfuture.org.uk/Welcome+to+Railfuture,10008240634,E09000012,Dalston,E05009370,51.54712954,-0.074981487,533576.0087000001,184893.00620000064,511
+Praxis N16,First Floor,3-9 Belfast Rd,,Hackney,https://www.facebook.com/praxisn16artiststudios/,10008313250,E09000012,Cazenove,E05009368,51.56555751,-0.072371521,533703.0122999996,186947.00269999914,511
+Netil House,Netil House,1 Westgate Street,,Hackney,eatworkart.com,100023015639,E09000012,London Fields,E05009381,51.53756412,-0.057705951,534802.0044999998,183861.0114999991,511
+Worship Street,50 Worship St,Shoreditch,,Hackney,http://www.v22collection.com,10008400568,E09000012,Hoxton East & Shoreditch,E05009377,51.5219245,-0.083829052,533036.0115999999,182074.00200000033,511
+Standpoint London,45 Coronet Street,,,Hackney,http://www.standpointlondon.co.uk/,10091816467,E09000012,Hoxton East & Shoreditch,E05009377,51.5270715,-0.081825164,533160.0120999999,182650.00170000084,511
+Hoxton Hall,130 Hoxton Street,,,Hackney,www.hoxtonhall.co.uk,100023135706,E09000012,Hoxton East & Shoreditch,E05009377,51.53175017,-0.079782839,533288.0127999997,183173.9989,511
+Sara Lane,60 Stanway Street,Hackney,,Hackney,www.spacestudios.org.uk,100023651845,E09000012,Hoxton East & Shoreditch,E05009377,51.53318399,-0.078929432,533343.0126999998,183334.9997000005,511
+Timber Wharf -Block C,238-240 Kingsland Road,Hackney,,Hackney,www.spacestudios.org.uk,100023546631,E09000012,Haggerston,E05009375,51.53589392,-0.075841961,533549.2103000004,183641.99010000005,511
+Orsman Road,15 Orsman Road,Hoxton,,Hackney,www.acme.org.uk,10008242975,E09000012,Hoxton East & Shoreditch,E05009377,51.53614877,-0.078761295,533346.0109000001,183664.9985000007,511
+Studio Manifold,Ermine Mews,Laburnum Street,,Hackney,http://www.studiomanifold.org/about/,10008324060,E09000012,Haggerston,E05009375,51.53613283,-0.075856685,533547.4900000002,183668.53089999966,511
+Southgate Studios,2-4 Southgate Road,,,Hackney,http://www.whitechapelgallery.org/first-thursdays/galleries/southgate-studios/,10008307552,E09000012,De Beauvoir,E05009371,51.53770691,-0.086049946,532836.0115,183824.99760000035,511
+Hertford Road Studios,32A Hertford Road,,,Hackney,http://www.artworksproject.com/docs/info.html,10008225561,E09000012,De Beauvoir,E05009371,51.53872642,-0.078566189,533352.0091000004,183951.99719999917,511
+Triangle,129-131 Mare Street,Hackney,,Hackney,www.spacestudios.org.uk,100023546930,E09000012,London Fields,E05009381,51.53844286,-0.057553178,534810.0043000001,183959.01190000027,511
+The Rose Lipman Building ,43 De Beauvoir Road ,,,Hackney,www.themillcoproject.co.uk,10091900721,E09000012,De Beauvoir,E05009371,51.53896522,-0.081613285,533140.0108000003,183972.99400000088,511
+Terrace Studios Gallery,4-17 Frederick Terrace,,,Hackney,https://www.facebook.com/TERRACE.STUDIOS.GALLERY/,10008320415,E09000012,London Fields,E05009381,51.53954391,-0.075777387,533543.0089999996,184048.00060000084,511
+Martello,10 Martello Street,Hackney,,Hackney,www.spacestudios.org.uk,100023016498,E09000012,London Fields,E05009381,51.54106797,-0.058595104,534730.0103000002,184249.00850000046,511
+Victor House,282a Richmond Road,Hackney,,Hackney,www.spacestudios.org.uk,10008339866,E09000012,Hackney Central,E05009372,51.54387614,-0.059831322,534636.0130000003,184559.00549999997,511
+Mainyard Studios,90-94 Wallis Rd,,,Hackney,https://mainyardstudios.co.uk,10008337819,E09000012,Hackney Wick,E05009374,51.54439017,-0.022729636,537207.0119000003,184685.0030000005,511
+Cell Project,115 WALLIS ROAD,,,Hackney,cellprojects.org,10008346528,E09000012,Hackney Wick,E05009374,51.54470612,-0.023869727,537127.0119000003,184718.00310000032,511
+117 Wallis Road,117 Wallis road ,Hackney Wick,,Hackney,www.arbeit.org.uk / www.arebyte.com,10008336713,E09000012,Hackney Wick,E05009374,51.544736,-0.023507873,537152.0119000003,184722.00290000066,511
+Deborah House,Retreat Place,Hackney,,Hackney,www.spacestudios.org.uk,10008342937,E09000012,Homerton,E05009376,51.5452378,-0.049216113,535368.0109000001,184730.00249999948,511
+Limberg Films,169 Balls Pond Rd,,,Hackney,www.artcoreint.net,10008297950,E09000012,De Beauvoir,E05009371,51.54639144,-0.082613412,533049.0070000002,184797.00709999911,511
+Belsham,16 Belsham Street,Hackney,,Hackney,www.spacestudios.org.uk,10091775557,E09000012,Homerton,E05009376,51.5460622,-0.051748168,535190.0115999999,184817.0030000005,511
+Dalston,"10-16 Ashwin Street, London, E8 3DL",,,Hackney,http://www.v22collection.com,10008241411,E09000012,Dalston,E05009370,51.54674074,-0.074305591,533624.0093,184851.00540000014,511
+"Francis Upritchard, Daniel Silver and Martino Gamper",Belsham Street,,,Hackney,,10091775559,E09000012,Homerton,E05009376,51.54645856,-0.051940816,535175.4818000002,184860.72340000048,511
+Bootstrap Charity,18-22 Ashwin St,,,Hackney,http://www.bootstrapcompany.co.uk/,10008346228,E09000012,Dalston,E05009370,51.54696352,-0.074728878,533594.0088999998,184875.00569999963,511
+Sarabande Studios,22 Hertford Road,,,Hackney,www.sarabandefoundation.org,10008307498,E09000012,De Beauvoir,E05009371,51.53812812,-0.078822119,533336.0093,183884.99689999968,511
+A side B side gallery,352 Mare St,,,Hackney,www.asidebsidegallery.com,10008305042,E09000012,Hackney Central,E05009372,51.54737642,-0.05453345,534993.0133999996,184958.00659999996,511
+Hatch,Unit G2,8 Mackintosh Lane,,Hackney,http://hatch-homerton.co.uk/,10008301285,E09000012,Homerton,E05009376,51.54734988,-0.042555944,535823.5080000004,184977.19239999913,511
+Eastway,80c Eastway,Hackney,,Hackney,www.spacestudios.org.uk,10008341867,E09000012,Hackney Wick,E05009374,51.54716562,-0.029489133,536730.0116999997,184981.00229999982,511
+Cell Studios Ridley Road,89 RIDLEY ROAD,,,Hackney,cellprojects.org,10008320277,E09000012,Dalston,E05009370,51.54842551,-0.070671927,533871.0111999996,185045.0036999993,511
+Unit 7 Stamford Works,Gillett Square ,,,Hackney,http://opensource.london/about,10008242129,E09000012,Dalston,E05009370,51.54932153,-0.076490034,533465.0103000002,185134.00459999964,511
+Matchmakers Wharf,Homerton Road,Homerton,,Hackney,www.acme.org.uk,10008325827,E09000012,King's Park,E05009379,51.55170739,-0.031124787,536603.0107000005,185483.00239999965,511
+Absorb Arts,10-28 millers Ave ,Dalston ,,Hackney,Absorb-arts.co.uk and printclublondon.com,10091940511,E09000012,Shacklewell,E05009382,51.55243575,-0.074469156,533596.0120999999,185484.00280000083,511
+Lighthouse Studios,73-75 & 89a Shacklewell Lane,,,Hackney,www.lighthousespace.co.uk,10008320328,E09000012,Shacklewell,E05009382,51.55274138,-0.071181865,533823.0122999996,185524.00210000016,511
+Cognative Collective,Unit 4 Tilia Rd,,,Hackney,www.artcoreint.net,100023548454,E09000012,Hackney Downs,E05009373,51.55290465,-0.055480648,534911.0149999997,185571.00579999946,511
+Hackney Downs Studios, 17 Amhurst Terrace,Lower Clapton,,Hackney,eatworkart.com,10008337805,E09000012,Shacklewell,E05009382,51.55476372,-0.066754358,534124.0137999998,185757.0036999993,511
+Stoke Newington,184 Church Street,Hackney,,Hackney,www.spacestudios.org.uk,207096173,E09000012,Clissold,E05009369,51.5616189,-0.082795826,532992.0121999998,186490.00290000066,511
+Politi Arts,"1st Floor, Units 2-4",10-12G Manor Rd,,Hackney,www.artcoreint.net,100000000000,E09000012,Stamford Hill West,E05009384,51.56602112,-0.074862551,533529.0122999996,186994.00310000032,511
+Cell Studios Grosvenor Works,Grosvenor Way,Mount Pleasant Hill,Clapton,Hackney,cellprojects.org,10008336688,E09000012,Lea Bridge,E05009380,51.56609206,-0.051397889,535155.0121999998,187045.00180000067,511
+Murder Mile Studios,12 Grosvenor Way,,,Hackney,www.artcoreint.net,100023007799,E09000012,Lea Bridge,E05009380,51.56617233,-0.05189949,535120.0131999999,187053.00269999914,511
+Haggerston Stour Studios,258 Kingsland road,Dalston,,Hackney,https://www.stourstudios.co.uk/contact-us,100023016582,E09000012,Haggerston,E05009375,51.537312,-0.07631648,533512.1535,183798.81849999912,511
+V22 Stoke Newington,"Unit 7, 3-9 Belfast Road",Stoke Newington,,Hackney,https://v22collection.com/stoke-newington/,100023157720,E09000012,Cazenove,E05009368,51.565884,-0.072123953,533719.2141000004,186983.7620000001,511
+Cell Studios Arcola Northside,23-27 Arcola St,Dalston,,Hackney,https://www.cellprojects.org/studios/arcola-northside,10008286566,E09000012,Shacklewell,E05009382,51.552091,-0.073846715,533640.1721999999,185446.80370000005,511
+The Mill Co. Project,"Mandarin Wharf, 70 De Beauvoir Crescent ",Haggerston,,Hackney,https://millco.co.uk/,10008317788,E09000012,De Beauvoir,E05009371,51.537058,-0.079499502,533292.1610000003,183764.76029999927,511
+Shepherds Lane Studios,"Ground Floor, 5-7 Shepherds Lane",Hackney,,Hackney,http://www.shepherdslanestudios.com/,See notes,E09000012,Homerton,E05009376,51.54794,-0.04629,535562.8701,185035.90020000003,511
+Grow Studios,Grow Studios,Main Yard,Wallis Road,Hackney,https://www.growhackneystudios.com/home/,100023018517,E09000012,Hackney Wick,E05009374,51.544389,-0.022757378,537205.0919000003,184684.82100000046,511
+Westland Place Studio,Westland Place Studio,3-11 Westland Place,,Hackney,http://www.westlandplacestudios.com/,100023136588,E09000012,Hoxton West,E05009378,51.528408,-0.090575307,532549.1914999997,182782.73289999925,511
+Chocolate Factory 16,Chocolate Factory 16,The Chocolate Factory N16,Farley Place,Hackney,https://www.chocolatefactoryn16.com/,100023159237,E09000012,Stoke Newington,E05009385,51.555539,-0.073527948,533652.1819000002,185830.8103,511
+Stoke Newington Library,184 Stoke Newington Church Street,,,Hackney,https://spacestudios.org.uk/buildings/stoke-newington-library/,100023154905,E09000012,Clissold,E05009369,51.561617,-0.082822041,532990.2007999998,186489.7438999992,511
+SET Dalston,27a Dalston Lane,Dalston,,Hackney,https://setspace.uk/studios,100023545315,E09000012,Dalston,E05009370,51.54641,-0.072875161,533724.1563999997,184816.84180000052,511
+The Baths Stour Studios,80 Eastway,Hackney,,Hackney,https://www.stourstudios.co.uk/contact-us,100023020749,E09000012,Hackney Wick,E05009374,51.547164,-0.029516804,536728.0980000002,184980.7706000004,511
+DALSTON E8,9 Martel Place,Dalston,,Hackney,https://www.arbeit.org.uk/dalston,10008344025,E09000012,Dalston,E05009370,51.547403,-0.070410116,533892.1597999996,184931.77840000018,511
+Trowbridge Centre E9 ,1 Trowbridge Road,Stratford,,Hackney,https://www.trowbridgegardens.com/studios,100021038910 ,E09000012,Hackney Wick,E05009374,51.544798,-0.028378723,536814.0971999997,184719.79260000028,511
+Mill Co. – The Stables,Springfield House,London,,Hackney,https://millco.co.uk/buildings/the-stable-block/,10008287627,E09000012,Dalston,E05009370,51.546924,-0.072435166,533753.1580999997,184874.8052999992,511
+One and a Half,Ardleigh road,,,Hackney,http://www.one-and-a-half.com/index.php?/contact/,100023544349,E09000012,De Beauvoir,E05009371,51.543343,-0.082191332,533087.1611000001,184458.77280000038,511
+Hoxton Studios,237 Hackney Road,,,Hackney,https://www.stourstudios.co.uk/hoxton-studios,100023649875,E09000012,Haggerston,E05009375,51.53132,-0.070167518,533956.1562000001,183143.7324000001,511
+Chats Palace ,42-44 Brooksby's Walk,,E9 6D,Hackney,https://chatspalace.com/,100023000000,E09000012,King's Park,E05009379,51.55026393,-0.042683326,535806.0077999998,185301.00290000066,511
+Hackney Picturehouse,,270 Mare Street,E8 1HE,Hackney,,100023014120,E09000012,Homerton,E05009376,51.544856,-0.05501405,534967.1380000003,184676.84520000033,511
+Rio Cinema,,107 Kingsland High Street,E8 2PB,Hackney,,100023015558,E09000012,Dalston,E05009370,51.549631,-0.07572474,533517.1645,185169.81570000015,511
+The Castle Cinema,,"First Floor, 64-66 Brooksby's Walk",E9 6DA,Hackney,,100023544617,E09000012,King's Park,E05009379,51.55129,-0.04329,535760.8982999995,185413.97919999994,511
+TT Cinema,,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.52867,-0.07807,533415.8112000003,182834.5990999993,511
+Curzon Hoxton ,,55 Pitfield St,N1 6BU,Hackney,,,E09000012,Hoxton West,E05009378,51.52889,-0.08375,533021.2001,182848.7201000005,511
+Flowers Gallery East,82 Kingsland Road,,,Hackney,http://www.flowersgallery.com/#,10008242588,E09000012,Haggerston,E05009375,51.52913735,-0.075559892,533588.5467999997,182891.14990000054,511
+Parasol unit,14 Wharf Road,,,Hackney,http://www.parasol-unit.org/#,10008244219,E09000012,Hoxton West,E05009378,51.52986692,-0.093424071,532347.3673999999,182939.80959999934,511
+Five Years,"Unit 66, Regent Studios",8 Andrews Road,,Hackney,http://www.fiveyears.org.uk/#,10008244601,E09000012,London Fields,E05009381,51.53499195,-0.058627996,534745.6577000003,183573.27569999918,511
+Hoxton Art Gallery,64 Charlotte Road,,,Hackney,http://www.hoxtonartgallery.co.uk/#,10008317965,E09000012,Hoxton East & Shoreditch,E05009377,51.52579324,-0.079492834,533325.5230999999,182512.10510000028,511
+Galerie8,203 Richmond Road,,,Hackney,http://www.galerie8.co.uk/#,10008325659,E09000012,London Fields,E05009381,51.54308574,-0.055499462,534938.7096999995,184479.09410000034,511
+The Proud Archivist,"The Archivist, Unit V Reliance Wharf",2-10 Hertford Road,,Hackney,http://www.theproudarchivist.co.uk/#,10008329599,E09000012,Haggerston,E05009375,51.53675409,-0.077120569,533458.0236999998,183735.3077000007,511
+Charlie Smith,336 Old Street,,,Hackney,http://charliesmithlondon.com/#,10008336390,E09000012,Hoxton East & Shoreditch,E05009377,51.52607799,-0.079855719,533299.5201000003,182543.1085000001,511
+Unit G Gallery,12A Collent Street,,,Hackney,http://unitg.london/gallery/#,10008339282,E09000012,Hackney Wick,E05009374,51.54353673,-0.046037109,535593.4771999996,184546.71800000034,511
+BSMT Space,5d Stoke Newington Road,,,Hackney,http://www.bsmt.co.uk/#,10008342181,E09000012,Dalston,E05009370,51.55027066,-0.073816911,533647.5640000002,185244.43319999985,511
+Beers London,1 Baldwin Street,,,Hackney,http://beerslondon.com/#,10090548970,E09000012,Hoxton West,E05009378,51.52649653,-0.087306703,532781.4658000004,182576.1015000008,511
+ICN,96-98 Leord Street,,,Hackney,http://www.icn-global.com/#,10091782215,E09000012,Hoxton East & Shoreditch,E05009377,51.52407657,-0.080104287,533288.1209000004,182320.09469999932,511
+Blackhall Studios,73 Leord Street,,,Hackney,http://www.blackallstudios.com/#,10091941036,E09000012,Hoxton East & Shoreditch,E05009377,51.5243398,-0.081356182,533200.5115999999,182347.08620000072,511
+Galleries Goldstein,"Goodhood, 20 Coronet Street",,,Hackney,http://galleriesgoldstein.com/#,100021034288,E09000012,Hoxton East & Shoreditch,E05009377,51.52671251,-0.080708531,533238.5131000001,182612.1144999992,511
+CNB Gallery,32 Rivington Street,,,Hackney,http://cnbgallery.com/#,100022932983,E09000012,Hoxton East & Shoreditch,E05009377,51.52534361,-0.080045214,533288.5197999999,182461.09899999946,511
+Red Gallery,3 Rivington Street,,,Hackney,http://www.redgallerylondon.com/#,100022933139,E09000012,Hoxton East & Shoreditch,E05009377,51.52565809,-0.081675622,533174.5076000001,182493.10050000064,511
+Sigl Gallery,32 Paul Street,,,Hackney,http://www.signalgallery.com/#,100022933332,E09000012,Hoxton East & Shoreditch,E05009377,51.52304389,-0.082405439,533131.5056999996,182201.0691999998,511
+The Residence,229 Victoria Park Road,,,Hackney,http://www.residence-gallery.com/#,100023024966,E09000012,Victoria,E05009386,51.53781866,-0.042557202,535851.7779000001,183917.30509999953,511
+Mercer Chance,253 Hoxton Street,,,Hackney,http://www.mercerchance.co.uk/#,100023135423,E09000012,Hoxton East & Shoreditch,E05009377,51.53336585,-0.078943348,533341.5163000003,183355.19769999944,511
+Daniel Blau,51 Hoxton Square,,,Hackney,http://www.danielblau.com/#,100023135514,E09000012,Hoxton East & Shoreditch,E05009377,51.52666246,-0.08007436,533282.6478000004,182607.7039999999,511
+Waterside Contemporary,2 Clunbury Street,,,Hackney,http://waterside-contemporary.com/#,100023135532,E09000012,Hoxton West,E05009378,51.5315104,-0.083722304,533015.4852,183140.16359999962,511
+The Invisible Line,"87 Dalston Lane,",,,Hackney,http://www.whitechapelgallery.org/first-thursdays/galleries/invisible-line-gallery/,100023545364,E09000012,Dalston,E05009370,51.54735022,-0.067405863,534100.6113,184931.41569999978,511
+Fishbar,176 Dalston Lane,,,Hackney,http://fishbar.ph/#,100023545393,E09000012,Hackney Central,E05009372,51.54769047,-0.063496726,534370.6419000002,184976.4257999994,511
+Rowing,2 Leswin Place,,,Hackney,http://www.rowingprojects.com/#,100023546708,E09000012,Stoke Newington,E05009385,51.55752194,-0.070682623,533843.6131999996,186056.52290000021,511
+Victoria Miro Gallery I,16 Wharf Road,,,Hackney,http://www.victoria-miro.com/#,200002432213,E09000012,Hoxton West,E05009378,51.52981876,-0.093410366,532348.4576000003,182934.47890000045,511
+Rocket Gallery,4-6 Sheep Lane,E8 4QS ,,Hackney,http://www.rocketgallery.com/#,10008322480,E09000012,London Fields,E05009381,51.535021,-0.060076278,534645.1319000004,183573.83860000037,511
+BSMT Space,529 Kingsland Road,E8 4AR,,Hackney,http://www.bsmt.co.uk/#,100023018345,E09000012,De Beauvoir,E05009371,51.54575,-0.075975007,533511.1579,184737.78079999983,511
+Andor Gallery,19 Ridley Road,E8 2NP,,Hackney,http://www.creativeandorcultural.com/#,10008464632,E09000012,Dalston,E05009370,51.54844,-0.073827857,533652.1606999999,185040.8406000007,511
+Hales London,7 Bethl Green Road,E1 6LA,,Hackney,https://halesgallery.com/,No UPRN,E09000012,Hoxton East & Shoreditch,E05009377,51.52373,-0.07622,533558.5795,182288.63939999975,511
+Ojiri Gallery,29 Charlotte Road,EC2A 3PB,,Hackney,http://www.ojirigallery.com/,100022932998,E09000012,Hoxton East & Shoreditch,E05009377,51.525371,-0.081375219,533196.1826999998,182461.72250000015,511
+ONEROOM Gallery,9 French Place,E1 6JB ,,Hackney,https://www.oneroomgallery.co.uk/,100021042272,E09000012,Hoxton East & Shoreditch,E05009377,51.525593,-0.078425034,533400.1764000002,182491.78460000083,511
+New Art Projects ,6D Sheep Ln,London,,Hackney,https://newartprojects.com/,10008322482,E09000012,London Fields,E05009381,51.535021,-0.060076278,534645.1319000004,183573.83860000037,511
+EMALIN,1 Holywell Lane,London,,Hackney,https://emalin.co.uk/,100022933086,E09000012,Hoxton East & Shoreditch,E05009377,51.523871,-0.077589364,533463.1766999997,182301.81980000064,511
+Seventeen,270-276 Kingsland Road (Entrance on Acton Mews),London,,Hackney,http://www.seventeengallery.com/,100023018169,E09000012,Haggerston,E05009375,51.53785,-0.076250515,533515.1539000003,183858.76659999974,511
+Guts Gallery ,"Unit 2, Sidings House",10 Andre Street,Lower Clapton,Hackney,https://gutsgallery.co.uk/,10008348250,E09000012,Hackney Central,E05009372,51.550799,-0.062563985,534426.1639,185323.81289999932,511
+Doyle Wham,91a Rivington Street,London,,Hackney,https://www.doylewham.com/,100022933107,E09000012,Hoxton East & Shoreditch,E05009377,51.526368,-0.07853656,533390.1760999998,182577.76239999942,511
+Tabula Rasa Gallery,"Unit One, 99 East Road",London,,Hackney,https://gallerytabularasa.co.uk/,100023545554,E09000012,Hoxton West,E05009378,51.529782,-0.087158568,532782.1849999996,182941.71979999915,511
+Areaworks,Areaworks Hoxton,Unit 2 Sheldon Building,1 Baltic Place,Hackney,http://areaworks.com/,10008238725,E09000012,Haggerston,E05009375,51.53644031,-0.075569085,533566.5347999996,183703.24950000085,511
+Canal Studios,Canal Studios,Reliance Wharf,Hertford Road,Hackney,http://canal-studios.co.uk/,10008239524,E09000012,Haggerston,E05009375,51.53675409,-0.077120569,533458.0236999998,183735.3077000007,511
+The Green House,The Green House N16,Greenhouse,Makintosh Lane,Hackney,http://www.thegreenhouselondon.com/coworking/,10008301285,E09000012,Hackney Wick,E05009374,51.54684138,-0.040965447,535935.2928999998,184923.59559999965,511
+Millers Junction,Millers Junction,Unit 1,10-28 Millers Aven,Hackney,www.millersjunction.com/,100023014979,E09000012,Shacklewell,E05009382,51.55193537,-0.07287466,533708.0171999997,185431.2748000007,511
+Bootstrap Charity,Bootstrap Company,18 Ashwin Street,,Hackney,www.bootstrapcompany.co.uk,10008241414,E09000012,Dalston,E05009370,51.54650564,-0.072374834,533758.5665999996,184828.39269999973,511
+Second Home,Second Home London Fields,125-129 Mare Street,,Hackney,http://secondhome.io/,100023016159,E09000012,Victoria,E05009386,51.53769035,-0.055931664,534924.6734999996,183878.32039999962,511
+Creative Blocks,Creative Blocks,"258 Kingsland Road, London,",,Hackney,www.creativeblocks.co.uk/,100023016582,E09000012,Haggerston,E05009375,51.53680382,-0.074702886,533625.5401999997,183745.2572000008,511
+Another Place Coworking,3-9 Belfast Road,,,Hackney,https://www.beehivecoworking.com/,100023157720,E09000012,Cazenove,E05009368,51.56537946,-0.070508703,533832.6392000001,186930.61260000058,511
+Blighty Workspace Finsbury Park,Blightly Arts Workspace,35-37 Blackstock Road,,Hackney,https://blightyarts.org.uk/what-we-do/,100023186991,E09000012,Brownswood,E05009367,51.56345352,-0.10129692,531704.3638000004,186660.51630000025,511
+Clear Village Charitable Trust,Small Works Hackney,44 Marlborough Avenue,,Hackney,http://www.clear-village.org/projects/smallworks/hackney,100023547079,E09000012,Haggerston,E05009375,51.53678806,-0.065545951,534260.6041000001,183760.28869999945,511
+Studio Shoreditch,Shoreditch Studio,77 East Road,,Hackney,www.studioshoreditch.co.uk,200002796664,E09000012,Hoxton West,E05009378,51.52859806,-0.086021853,532864.4725000001,182812.12749999948,511
+Hackney Downs Studios ,17 Amhurst Terrace,Lower Clapton,,Hackney,https://eatworkart.com/hackney-downs-studios/studios/heartspace,10008337805,E09000012,Shacklewell,E05009382,51.55475,-0.067156424,534096.1821999997,185754.7407000009,511
+De Beauvoir Block,De Beauvoir Block,92-96 De Beauvoir Road,,Hackney,http://www.debeauvoirblock.com/#home,10008348446,E09000012,De Beauvoir,E05009371,51.541897,-0.080117779,533235.1601999998,184301.74909999967,511
+The Trampery Old Street,239 Old Street,London,,Hackney,https://thetrampery.com/spaces/workspaces/old-street/,10008287321,E09000012,Hoxton West,E05009378,51.526625,-0.084321144,532988.1830000002,182595.81020000018,511
+Grow Studios,"86 & 98 Main Yard, Wallis Road",,,Hackney,https://www.growhackneystudios.co.uk,10008332474,E09000012,Hackney Wick,E05009374,51.543811,-0.022623784,537216.0926000001,184620.7968000006,511
+Batch Space ,Hackney Depot,5 Sheep Lane,,Hackney,https://www.batch.space/index.html,10008353302 ,E09000012,London Fields,E05009381,51.535491,-0.059133464,534709.1298000002,183627.84109999985,511
+Hoxton Studios,237 Hackney Road,,,Hackney,https://www.stourstudios.co.uk/hoxton-studios,100023649875,E09000012,Haggerston,E05009375,51.53132,-0.070167518,533956.1562000001,183143.7324000001,511
+Chocolate Factory 16,Chocolate Factory 16,The Chocolate Factory N16,Farley Place,Hackney,https://www.chocolatefactoryn16.com/,100023159237,E09000012,Stoke Newington,E05009385,51.55503297,-0.071913285,533765.5948999999,185777.4922000002,511
+Cell Project Space,Cell Project Arcola North,23-27 Arcola Street,,Hackney,cellprojects.org,10008286566,E09000012,Shacklewell,E05009382,51.55158468,-0.07223223,533753.5817999998,185393.45270000026,511
+Container Ville,Container Ville,Ground Floor Rear Of 32-38,Scrutton Street,Hackney,https://www.containerville.co.uk/,10008313306,E09000012,Hoxton East & Shoreditch,E05009377,51.52232431,-0.080201065,533286.5225,182125.06450000033,511
+Lighthouse Studios,,73-75 & 89a Shacklewell Lane,,Hackney,www.lighthousespace.co.uk,10008329070,E09000012,Shacklewell,E05009382,51.55223379,-0.069593622,533934.6068000002,185470.46590000018,511
+Hatch Homerton,Hatch,Unit G2,8 Mackintosh Lane,Hackney,http://hatch-homerton.co.uk/,10008334420,E09000012,Hackney Wick,E05009374,51.54684138,-0.040965447,535935.2928999998,184923.59559999965,511
+The Mill Co. Project,Mandarin Wharf,70-76 De Beauvoir Crescent,,Hackney,www.themillcoproject.co.uk,10008336737,E09000012,Hoxton East & Shoreditch,E05009377,51.53655894,-0.077884184,533405.6387999998,183712.2117999997,511
+Artistic Spaces Ltd,Warwick Works,"Unit 1, Warwick Works",Downs Road,Hackney,www.artistic-spaces.co.uk,10008347879,E09000012,Hackney Downs,E05009373,51.55478574,-0.06522249,534230.1404999997,185762.26249999925,511
+De Beauvoir Block,De Beauvoir Block,92-96 De Beauvoir Road,,Hackney,http://www.debeauvoirblock.com/#home,10008348446,E09000012,De Beauvoir,E05009371,51.54175,-0.0801,533236.8219999997,184285.43439999968,511
+Centre For Fashion Enterprise,Centre For Fashion Enterprise,182 Mare Street,,Hackney,www.fashion-enterprise.com,10091775928,E09000012,Victoria,E05009386,51.54061431,-0.05328307,535099.6996999998,184208.35859999992,511
+Cell Project Space,Cell Project Arcola,4-8 Arcola Street,,Hackney,cellprojects.org,100023015441,E09000012,Shacklewell,E05009382,51.55140731,-0.07293218,533705.5751,185372.4484000001,511
+Eat Work Art,Netil House,1 Westgate Street,,Hackney,eatworkart.com,100023015639,E09000012,Victoria,E05009386,51.53705488,-0.056117384,534913.6730000004,183807.3110000007,511
+ Bootstrap Charity,18 Ashwin St,,,Hackney,http://www.bootstrapcompany.co.uk/,100023015654,E09000012,Dalston,E05009370,51.54645529,-0.07314146,533705.5598999998,184821.3911000006,511
+Main Yard Studios,"90, 92, 94 Wallis Road",,,Hackney,https://mainyardstudios.co.uk/hackney-wick/,100023018517,E09000012,Hackney Wick,E05009374,51.5438807,-0.021137394,537318.9463999998,184631.33159999922,511
+Grow Studios,Grow Studios,Main Yard,Wallis Road,Hackney,https://www.growhackneystudios.com/home/,100023018517,E09000012,Hackney Wick,E05009374,51.5438807,-0.021137394,537318.9463999998,184631.33159999922,511
+The Mill Co. Project,The Rose Lipman Building,43 De Beauvoir Road,,Hackney,www.themillcoproject.co.uk,100023135176,E09000012,De Beauvoir,E05009371,51.53845598,-0.080026953,533251.5012999997,183919.25699999928,511
+Hoxton Hall Charity,Hoxton Works,130 Hoxton Street,,Hackney,www.hoxtonhall.co.uk,100023135707,E09000012,Hoxton East & Shoreditch,E05009377,51.5312614,-0.078397492,533385.5234000003,183122.17229999974,511
+Westland Place Studio,Westland Place Studio,3-11 Westland Place,,Hackney,http://www.westlandplacestudios.com/,100023136588,E09000012,Hoxton West,E05009378,51.52789956,-0.088963703,532662.4521000003,182729.11470000073,511
+New River Studios,New River Studios,199 Eade Road,,Hackney,http://www.newriverstudios.com/,100023184381,E09000012,Woodberry Down,E05009387,51.57444685,-0.086549795,532694.5247999998,187909.6780999992,511
+Hackney Downs Studios,17 Amhurst Terrace,Lowe Clapton,,Hackney,eatworkart.com,100023544264,E09000012,Hackney Downs,E05009373,51.55383508,-0.06470726,534268.6514999997,185657.49320000038,511
+Set,Set Dalston Lane,27a Dalston Lane,,Hackney,http://setspace.uk/studio.html,100023545315,E09000012,Dalston,E05009370,51.54590275,-0.0712608,533837.5750000002,184763.38859999925,511
+Shepherd's Lane Studios,Shepherd's Lane,5-7 Shephed's Lane,,Hackney,http://www.shepherdslaneworkshop.com,100023547846,E09000012,Homerton,E05009376,51.54718384,-0.04466713,535677.6305999998,184954.81760000065,511
+Haggerston Stour Studios,258 Kingsland road,Dalston,London,Hackney,https://www.stourstudios.co.uk/contact-us,100023016582,E09000012,Haggerston,E05009375,51.537312,-0.07631648,533512.1535,183798.81849999912,511
+Shoreditch Town Hall,380 Old Street,,,Hackney,https://shoreditchtownhall.com/,100022930896,E09000012,Hoxton East & Shoreditch,E05009377,51.526675,-0.079129146,533348.1749999998,182610.82100000046,511
+Perseverance Works,25 Hackney Road,,,Hackney,http://www.perseveranceworks.co.uk,No UPRN,E09000012,Hoxton East & Shoreditch,E05009377,51.52777,-0.07675,533509.9995999997,182736.92589999922,511
+Stoke Newington Library,184 Stoke Newington Church Street,,,Hackney,https://spacestudios.org.uk/buildings/stoke-newington-library/,100023154905,E09000012,Clissold,E05009369,51.561617,-0.082822041,532990.2007999998,186489.7438999992,511
+Grosvenor Works,Grosvenor Way,Mount Pleasant Hill,Clapton,Hackney,https://www.cellprojects.org/studios/cell-studios-grosvenor-way,100023650806,E09000012,Lea Bridge,E05009380,51.564271,-0.052843814,535060.193,186839.82829999924,511
+Soho Works Shoreditch,The Tea Building,56 Shoreditch High Street,,Hackney,https://www.sohohouse.com/soho-works/shoreditch,100022949937,E09000012,Hoxton East & Shoreditch,E05009377,51.524072,-0.076715943,533523.1765999999,182325.7650000006,511
+The Trampery on the Gantry,Here East,Queen Elizabeth Olympic Park,,Hackney,https://thetrampery.com/spaces/workspaces/on-the-gantry/,10008342528,E09000012,Hackney Wick,E05009374,51.548458,-0.022494411,537211.0910999998,185137.7907999996,511
+The Baths Stour Studios,80 Eastway,Hackney,,Hackney,https://www.stourstudios.co.uk/contact-us,100023020749,E09000012,Hackney Wick,E05009374,51.547164,-0.029516804,536728.0980000002,184980.7706000004,511
+The Mill Co. Project,"Mandarin Wharf, 70 De Beauvoir Crescent ",Haggerston,,Hackney,https://millco.co.uk/,10008317788,E09000012,De Beauvoir,E05009371,51.537058,-0.079499502,533292.1610000003,183764.76029999927,511
+Hackney Downs Studios ,17 Amhurst Terrace,Lower Clapton,,Hackney,https://eatworkart.com/hackney-downs-studios/studios/heartspace,10008337805,E09000012,Shacklewell,E05009382,51.55475,-0.067156424,534096.1821999997,185754.7407000009,511
+Hoxton Studios,237 Hackney Road,,,Hackney,https://www.stourstudios.co.uk/hoxton-studios,100023649875,E09000012,Haggerston,E05009375,51.53132,-0.070167518,533956.1562000001,183143.7324000001,511
+One and a Half,Ardleigh road,,,Hackney,http://www.one-and-a-half.com/index.php?/contact/,100023544349,E09000012,De Beauvoir,E05009371,51.543343,-0.082191332,533087.1611000001,184458.77280000038,511
+Hackney Empire,291 Mare Street,,,Hackney,https://hackneyempire.co.uk/hire/spaces/,100023014084,E09000012,Hackney Central,E05009372,51.54552162,-0.055477861,534933.0131000001,184750.0075000003,511
+Hoxton Hall,130 Hoxton Street,,,Hackney,www.hoxtonhall.co.uk/category/hire/,100023135707,E09000012,Hoxton East & Shoreditch,E05009377,51.53177145,-0.0799838,533274.0126999998,183175.99899999984,511
+Arcola Theatre,24 Ashwin Street,,,Hackney,http://www.arcolatheatre.com,10008321023,E09000012,Dalston,E05009370,51.54691315,-0.074947347,533579.0088999998,184869.00520000048,511
+Studio Wayne McGregor,14 East Bay lane,,,Hackney,http://waynemcgregor.com,10008348301,E09000012,Hackney Wick,E05009374,51.54744385,-0.024066959,537105.1114999996,185022.07279999927,511
+"The Old Church , Stoke Newington",207B Church Street,,,Hackney,http://theoldchurch.org.uk,100021076029,E09000012,Clissold,E05009369,51.56041201,-0.084880748,532851.0122999996,186352.0025999993,511
+Foulden Works,30 Foulden Road,,,Hackney,https://fouldenworks.wordpress.com,100021041785,E09000012,Stoke Newington,E05009385,51.55579,-0.07398,533620.1107000001,185857.89550000057,511
+Shoreditch Town Hall,380 Old Street,,,Hackney,http://shoreditchtownhall.com/event-space-hire/venue-specification/large-committee-room,100022930896,E09000012,Hoxton East & Shoreditch,E05009377,51.52667619,-0.079102613,533350.0120000001,182611.00170000084,511
+Graeae Theatre Company Bradbury Studios,138 Kinglsand Road,,,Hackney,www.graeae.org/,10008323888,E09000012,Haggerston,E05009375,51.53279852,-0.076811706,533491.0126999998,183295.99899999984,511
+National Circus,9 Coronet St,,,Hackney,http://www.nationalcircus.org.uk,100023135619,E09000012,Hoxton East & Shoreditch,E05009377,51.52755809,-0.082550204,533108.3021,182702.79179999977,511
+Chat's Palace,42 Brooksby's Walk,,,Hackney,http://chatspalace.com,100023020798,E09000012,King's Park,E05009379,51.55026393,-0.042683326,535806.0077999998,185301.00290000066,511
+TripSpace Dance,"ARCH 339, ACTON MEWS",,,Hackney,http://www.tripspace.co.uk,100023016667,E09000012,Haggerston,E05009375,51.53679364,-0.075864571,533545.0092000002,183742.00100000016,511
+Courtyard Theatre,40 Pitfield Street,,,Hackney,http://www.thecourtyard.org.uk,100023136422,E09000012,Hoxton East & Shoreditch,E05009377,51.52787925,-0.083377075,533050.0121999998,182737.00119999982,511
+Clarence Mews : Studio Space,40 Clarence Mews,,,Hackney,https://clarencemews.wordpress.com/about/,200001493439,E09000012,Homerton,E05009376,51.55118481,-0.054803845,534963.0149999997,185381.00569999963,511
+Concorde Centre,7 Kingsmead Way,,,Hackney,https://www.younghackney.org/youth-hub/concorde/,100023546618,E09000012,King's Park,E05009379,51.55343146,-0.034195035,536385.0094999997,185669.00229999982,511
+Dance Research Studio,23 Orsman Road,,,Hackney,http://www.danceresearchstudio.com,10008237591,E09000012,Hoxton East & Shoreditch,E05009377,51.53614877,-0.078761295,533346.0109000001,183664.9985000007,511
+Hackney Showroom,17 Amhurst Terrace,,,Hackney,www.hackneyshowroom.com,100023544264,E09000012,Shacklewell,E05009382,51.5543425,-0.066296162,534157.0137999998,185711.00359999947,511
+St Barnabas,35 Shacklewell Row,,,Hackney,http://www.saintbarnabasdalston.org.uk,100023015529,E09000012,Shacklewell,E05009382,51.55282748,-0.07149557,533801.0122999996,185533.00229999982,511
+JazzMAD,Unit 6 Maun House,25-31 Shacklewell Lane,,Hackney,https://www.jazzmad.co.uk/contact/,10008311260,E09000012,Shacklewell,E05009382,51.55123011,-0.073337233,533678.0121999998,185352.00269999914,511
+Centre 151,151 Whiston Road,,,Hackney,http://www.centre151.com/contact/,100023000000,E09000012,Haggerston,E05009375,51.5351763,-0.070746271,533904.7001,183571.51300000027,511
+For The Core ,11 Pearson Street,,,Hackney,https://www.forthecore.co.uk,100024000000,E09000012,Haggerston,E05009375,51.53310619,-0.076380586,533520.0126999998,183331.00019999966,511
+American Musical Theatre Academy ,28 Wallis Road,,,Hackney,https://theamta.com/gb/,10008349004,E09000012,Hackney Wick,E05009374,51.54417299,-0.024787004,537065.0119000003,184657.00239999965,511
+Hackney Empire,291 Mare Street,,,Hackney,https://hackneyempire.co.uk/hire/spaces/,100023014084,E09000012,Hackney Central,E05009372,51.54552162,-0.055477861,534933.0131000001,184750.0075000003,511
+Hoxton Hall,130 Hoxton Street,,,Hackney,www.hoxtonhall.co.uk/category/hire/,100023135707,E09000012,Hoxton East & Shoreditch,E05009377,51.53177145,-0.0799838,533274.0126999998,183175.99899999984,511
+Arcola Theatre,24 Ashwin Street,,,Hackney,http://www.arcolatheatre.com,10008321023,E09000012,Dalston,E05009370,51.54691315,-0.074947347,533579.0088999998,184869.00520000048,511
+Studio Wayne McGregor,14 East Bay lane,,,Hackney,http://waynemcgregor.com,10008348301,E09000012,Hackney Wick,E05009374,51.54744385,-0.024066959,537105.1114999996,185022.07279999927,511
+"The Old Church , Stoke Newington",207B Church Street,,,Hackney,http://theoldchurch.org.uk,100021076029,E09000012,Clissold,E05009369,51.56041201,-0.084880748,532851.0122999996,186352.0025999993,511
+Foulden Works,30 Foulden Road,,,Hackney,https://fouldenworks.wordpress.com,100023159914,E09000012,Stoke Newington,E05009385,51.55551305,-0.072391878,533731.0120999999,185830.00229999982,511
+Shoreditch Town Hall,380 Old Street,,,Hackney,http://shoreditchtownhall.com/event-space-hire/venue-specification/large-committee-room,100022930896,E09000012,Hoxton East & Shoreditch,E05009377,51.52667619,-0.079102613,533350.0120000001,182611.00170000084,511
+Graeae Theatre Company Bradbury Studios,138 Kinglsand Road,,,Hackney,www.graeae.org/,10008323888,E09000012,Haggerston,E05009375,51.53279852,-0.076811706,533491.0126999998,183295.99899999984,511
+National Circus,9 Coronet St,,,Hackney,http://www.nationalcircus.org.uk,100023135619,E09000012,Hoxton East & Shoreditch,E05009377,51.52755809,-0.082550204,533108.3021,182702.79179999977,511
+Chat's Palace,42 Brooksby's Walk,,,Hackney,http://chatspalace.com,100023020798,E09000012,King's Park,E05009379,51.55026393,-0.042683326,535806.0077999998,185301.00290000066,511
+TripSpace Dance,ARCH 339,ACTON MEWS,,Hackney,http://www.tripspace.co.uk,100023016667,E09000012,Haggerston,E05009375,51.53679364,-0.075864571,533545.0092000002,183742.00100000016,511
+Courtyard Theatre,40 Pitfield Street,,,Hackney,http://www.thecourtyard.org.uk,100023136422,E09000012,Hoxton East & Shoreditch,E05009377,51.52787925,-0.083377075,533050.0121999998,182737.00119999982,511
+City Dance Academy,Gainsborough Studios,"Suite A, North",1 Poole Street,Hackney,https://citydanceacademy.co.uk/page23-htm/,10008289341,E09000012,Hoxton East & Shoreditch,E05009377,51.536122,-0.088839378,532647.1786000002,183643.69040000066,511
+Hackney Showroom,4 Murrain Road,Kings Crescent Estate, ,Hackney,https://www.hackneyshowroom.com/,10008343497,E09000012,Brownswood,E05009367,51.56253,-0.092479079,532318.2026000004,186573.7441000007,511
+Chats Palace Arts Centre ,42-44 Brooksby's Walk,London,,Hackney,https://chatspalace.com/,100023020798,E09000012,King's Park,E05009379,51.550263,-0.042710633,535804.1174999997,185300.84889999963,511
+808 Studios,Stephen House,1B Darnely Road,,Hackney,www.808studios.co.uk,100023020822,E09000012,Homerton,E05009376,51.54383,-0.054437649,535010.1354999999,184563.8161999993,511
+Drake's,3 Haberdasher St,,,Hackney,https://www.drakes.com,10008334117,E09000012,Hoxton West,E05009378,51.5292493,-0.08678475,532809.6624999996,182883.16119999997,511
+Orhan London Tailoring,25a Pitfield Street,,,Hackney,http://www.orhanlondontailoring.com/,10008300535,E09000012,Hoxton West,E05009378,51.52711372,-0.083856163,533019.0120000001,182651.0019000005,511
+Forma Leather,Perseverance Works,38 Kingsland Road,,Hackney,http://www.formaleather.co.uk/,10008243998,E09000012,Hoxton East & Shoreditch,E05009377,51.52812065,-0.077801903,533436.0124000004,182773.99950000085,511
+Fabrications,7 Broadway Market,,,Hackney,https://fabrications1.co.uk,100023544585,E09000012,Haggerston,E05009375,51.53593188,-0.06231762,534487.0077,183671.0086000003,511
+Loud Apparel Limited,7 Maun House,1 Dunn Street,,Hackney,http://loud-apparel.com,10008311273,E09000012,Shacklewell,E05009382,51.55121535,-0.073298334,533680.7522,185350.43249999918,511
+Tura London,10 Amhurst Terrace,,,Hackney,http://www.turalondon.com/,10008241260,E09000012,Shacklewell,E05009382,51.55456138,-0.067615908,534064.8831000002,185732.92310000025,511
+CreateLab by Nosakhari,230 Morning Lane,,,Hackney,http://createlab.nosakhari.com/,100021059918,E09000012,Homerton,E05009376,51.54547888,-0.046407784,535562.0099999998,184762.0022,511
+London Tradition,London Tradition Ltd 96B Wallis Road London E9 5LN,,,Hackney,http://www.londontradition.com/,10008332472,E09000012,Hackney Wick,E05009374,51.544018,-0.022629235,537215.0922999997,184643.8052999992,511
+Soho Works Shoreditch,"The Tea Building, 56 Shoreditch High Street, E1 6J",,,Hackney,https://www.sohohouse.com/soho-works/shoreditch,100022949937,E09000012,Hoxton East & Shoreditch,E05009377,51.524072,-0.076715943,533523.1765999999,182325.7650000006,511
+Grosvenor Works,"Grosvenor Works, Mount Pleasant Hill",,,Hackney,https://www.cellprojects.org/studios/cell-studios-grosvenor-way,100023650806,E09000012,Lea Bridge,E05009380,51.564271,-0.052843814,535060.193,186839.82829999924,511
+Hackney Downs Studios,Amhurst Terrace,,,Hackney,https://eatworkart.com/hackney-downs-studios,100023544264,E09000012,Shacklewell,E05009382,51.554341,-0.066322695,534155.1788999997,185710.78810000047,511
+Shimell and Madden,"Unit 7, culford house, 1-7 Orsman Rd, Whitmore Est",,,Hackney,https://shimellandmadden.com,100023135117,E09000012,Hoxton East & Shoreditch,E05009377,51.536113,-0.077808952,533412.1596999997,183662.75919999927,511
+Perseverance Works,25 Hackney Road London E2 7NX,,,Hackney,http://www.perseveranceworks.co.uk/,no UPRN,E09000012,Hoxton East & Shoreditch,E05009377,51.52777,-0.07675,533509.9995999997,182736.92589999922,511
+Goldie Jewellery,"4, 8 Arcola St, London E8 2DJ",,,Hackney,https://goldiejewellery.com/,100023015441,E09000012,Shacklewell,E05009382,51.551913,-0.074546577,533592.1736000003,185425.73059999943,511
+William Cheshire Bespoke Jewellery,"14 Broadway Market, London E8 4QJ",,,Hackney,https://www.williamcheshire.com,100023018388,E09000012,London Fields,E05009381,51.536031,-0.061864606,534518.1319000004,183682.86439999938,511
+Regent Studios,"8 Andrews Rd, London, England, E8 4QN, United King",,,Hackney,,100023544317,E09000012,London Fields,E05009381,51.5355,-0.060243345,534632.1325000003,183626.79800000042,511
+Karoke Hole ,95 Kingsland High St,,E8 2PB,Hackney,,,E09000012,Dalston,E05009370,51.54937787,-0.075470621,533535.5225999998,185142.13130000047,511
+Buker Bar (formerly East Bloc),217 City Road,Hoxton,EC1V 1JN,Hackney,http://eastbloc.co.uk,,E09000012,Hoxton West,E05009378,51.52835545,-0.091197444,532506.1915999996,182775.7622999996,511
+Dalston Superstore,117 Kingsland High Street,,E8 2PB,Hackney,http://dalstonsuperstore.com/,,E09000012,Dalston,E05009370,51.54946642,-0.075573014,533528.1648000004,185151.7912000008,511
+"Glory, The ",281 Kingsland Road,,E2 8AS,Hackney,http://www.theglory.co,,E09000012,Hoxton East & Shoreditch,E05009377,51.53584125,-0.077128283,533460.1583000002,183633.78280000016,511
+VFD (Vogue Fabrics Dalston),66 Stoke Newington Road,,N16 7XB,Hackney,http://vfdalston.com,,E09000012,Shacklewell,E05009382,51.55264331,-0.074631157,533584.1741000004,185506.78779999912,511
+Shoreditch Library,,,,Hackney,,100023135480,E09000012,Hoxton East & Shoreditch,E05009377,51.52992914,-0.078323828,533394.5259999996,182974.15530000068,511
+Hackney Central Library,,,,Hackney,,10008243137,E09000012,Homerton,E05009376,51.54397082,-0.054481199,535006.6996999998,184579.3951999992,511
+Dalston CLR James Library,,,,Hackney,,10008322989,E09000012,Dalston,E05009370,51.54553907,-0.072345591,533763.4253000002,184720.96050000004,511
+Homerton Library,,,,Hackney,,100023022501,E09000012,Hackney Wick,E05009374,51.54845395,-0.040153269,535986.7987000002,185104.42259999923,511
+Stoke Newington Library,,,,Hackney,,100023154905,E09000012,Clissold,E05009369,51.56111212,-0.081208186,533103.5323999999,186436.53800000064,511
+Clapton Library,,,,Hackney,,100023005817,E09000012,Hackney Downs,E05009373,51.56216084,-0.058336644,534685.7258000001,186595.04529999942,511
+N4 Library,,,,Hackney,,10001298318,E09000012,Brownswood,E05009367,51.56332898,-0.101937018,531660.3578000003,186645.51400000043,511
+Woodberry Down Library,,,,Hackney,,10008328988,E09000012,Woodberry Down,E05009387,51.56958151,-0.089760986,532486.1323999995,187362.8139999993,511
+Stamford Hill Library,,,,Hackney,,100023159219,E09000012,Cazenove,E05009368,51.56986343,-0.070823934,533797.6502999999,187428.6615999993,511
+Double Negative Darkroom,178a Glyn Road,,,Hackney,http://dndr.org.uk/,100023545778,E09000012,King's Park,E05009379,51.55311679,-0.040656767,535938.0042000003,185622.0030000005,511
+East London Printmakers,East London Printmakers,129 Mare Street,,Hackney,www.eastlondonprintmakers.co.uk,100023546930,E09000012,London Fields,E05009381,51.53844286,-0.057553178,534810.0043000001,183959.01190000027,511
+Hackney Fashion Hub,Hackney Fashion Hub,116 Morning Lane,,Hackney,http://hackneyfashionhub.co.uk/,10008240891,E09000012,Homerton,E05009376,51.54700737,-0.050178954,535296.0108000003,184925.00329999998,511
+Photochats,Photochats,42-44 Brooksby's Walk,,Hackney,http://www.chatspalace.com,100023020798,E09000012,King's Park,E05009379,51.55026393,-0.042683326,535806.0077999998,185301.00290000066,511
+Print Club London,Print Club London,Unit 3,10-28 Millers Aven,Hackney,http://printclublondon.com,100023014979,E09000012,Shacklewell,E05009382,51.55244302,-0.074462503,533596.4519999996,185484.8234000001,511
+Rapid Eye,Rapid Eye,79 Leonard Street,,Hackney,http://www.rapideye.uk.com,10008245856,E09000012,Hoxton East & Shoreditch,E05009377,51.52481964,-0.082698323,533106.0116999997,182398.00239999965,511
+Rara,Rara,2 Grosvenor Way,,Hackney,www.r-a-r-a.com/,100023007793,E09000012,Lea Bridge,E05009380,51.56536464,-0.052539993,535078.0143999998,186962.00400000066,511
+Terrace Studios And Gallery,,4-17 Frederick Terrace,,Hackney,https://www.facebook.com/TERRACE.STUDIOS.GALLERY/,10008240683,E09000012,London Fields,E05009381,51.53954391,-0.075777387,533543.0089999996,184048.00060000084,511
+The School Of Stuff,The School Of Stuff,73-75 Shacklewell Lane,,Hackney,www.theschoolofstuff.co.uk/,10008320329,E09000012,Shacklewell,E05009382,51.55274138,-0.071181865,533823.0122999996,185524.00210000016,511
+Turning Earth Ceramics,Railway Arches 361-362,Whiston Road,,Hackney,http://turningearthceramics.co.uk,10008243885,E09000012,Haggerston,E05009375,51.53440706,-0.075648017,533567.0119000003,183477.00009999983,511
+E5 Process ,178a Glyn Road,,,Hackney,https://e5process.co.uk/,100021043811 ,E09000012,King's Park,E05009379,51.553213,-0.041141499,535904.1157,185631.80250000022,511
+Jealous Studio,2A LUKE STREET,London,,Hackney,https://jealousgallery.com/pages/studio,100022933312,E09000012,Hoxton East & Shoreditch,E05009377,51.524194,-0.080848097,533236.1816999996,182331.79820000008,511
+Batch Space ,Hackney Depot,5 Sheep Lane,,Hackney,https://www.batch.space/index.html,10008353302 ,E09000012,London Fields,E05009381,51.535491,-0.059133464,534709.1298000002,183627.84109999985,511
+Make Town,2a Chatham Place,London,,Hackney,www.make.town,10008342934,E09000012,Homerton,E05009376,51.546937,-0.050901328,535246.1357000005,184915.84469999932,511
+Kemp London ,32 Shackwell Lane,,,Hackney,http://www.kemplondon.com/,100023000000,E09000012,Dalston,E05009370,51.55035077,-0.071029366,533840.5886000004,185258.44140000083,511
+Othe Fabrications Ltd.,Studio 5,19 Warburton Road,,Hackney,https://otherfabrications.com/,10008343892,E09000012,London Fields,E05009381,51.539198,-0.057663472,534800.1282000002,184042.78130000085,511
+Swordfish Works,"Studio 7 & 8, The Hangar",Perseverance Works,38 Kingsland Road,Hackney,https://swordfishworks.com/,No UPRN,E09000012,Hoxton East & Shoreditch,E05009377,51.52814,-0.07772,533441.6366999997,182776.30069999956,511
+Surface Matter,29 Westgate Street,London,,Hackney,https://www.surfacematter.co.uk/,10008338161,E09000012,London Fields,E05009381,51.53747,-0.059193456,534699.1277000001,183847.80440000072,511
+New North Press,45 Coronet Street,London,,Hackney,https://new-north-press.co.uk/,100023136399,E09000012,Hoxton East & Shoreditch,E05009377,51.52707,-0.081851649,533158.1793,182649.78669999912,511
+Hackney Museum,1 Reading Lane,NA,NA,Hackney,http://www.hackney.gov.uk/cm-museum.htm,10008313143,E09000012,Homerton,E05009376,51.54397082,-0.054481199,535006.6996999998,184579.3951999992,511
+Museum of the Home,136 Kingsland Road,London,NA,Hackney,http://www.geffrye-museum.org.uk/,100021051873,E09000012,Haggerston,E05009375,51.53104717,-0.074657422,533645.5502000004,183105.1774000004,511
+ Sutton House and Breaker's Yard,2 & 4 Homerton High St,NA,NA,Hackney,www.â€‹nationaltrust.â€‹org.â€‹uk/â€‹sutton-â€‹house,100023022522,E09000012,Homerton,E05009376,51.54797778,-0.048814315,535387.7472000001,185035.43459999934,511
+Peer UK,97-99 Hoxton Street,London,N1 6QL,Hackney,https://www.peeruk.org/,100023136363,E09000012,Hoxton East & Shoreditch,E05009377,51.529808,-0.080496648,533244.1749999998,182956.72399999946,511
+Autograph,Rivington Place,London,EC2A 3BA,Hackney,https://autograph.org.uk/,100023547663,E09000012,Hoxton East & Shoreditch,E05009377,51.526446,-0.079455921,533326.1772999996,182584.76029999927,511
+Stour Gallery,258 Kingsland road,London,NA,Hackney,https://www.stourgalleries.co.uk/,100023016582,E09000012,Haggerston,E05009375,51.537312,-0.07631648,533512.1535,183798.81849999912,511
+Standpoint,45 Coronet Street,Hoxton,,Hackney,http://www.standpointlondon.co.uk/#,100023136399,E09000012,Hoxton East & Shoreditch,E05009377,51.52707,-0.081851649,533158.1793,182649.78669999912,511
+Stereo 92,"Stoke Newington High St, London N16 7NY",,,Hackney,http://www.stereo92.co.uk,100000000000,E09000012,Stoke Newington,E05009385,51.560101,-0.073739,533624.2034999998,186337.72739999928,511
+Electricity Showrooms,39a Hoxton Square; Hoxton; London N1 6NN; United K,Hackney,39 Hoxton Square,Hackney,www.electricityshowrooms.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.527348,-0.080444,533255.0071999999,182683.26380000077,511
+Victorian Vaults,82 Great Eastern Street; Shoreditch; London EC2A 3,,,Hackney,,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.525967,-0.083369,533056.1452000001,182524.37069999985,511
+The Old Blue Last,38 Great Eastern Street,Hackney,38 Great Eastern S,Hackney,www.theoldbluelast.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52387021,-0.078492461,533400.5328000002,182300.0848999992,511
+Troy Bar,10 Hoxton St; Hoxton; London N1 6NG; United Kingdo,Hackney,10 Hoxton Street,Hackney,www.troybar.co.uk,10008242403,E09000012,Hoxton East & Shoreditch,E05009377,51.527631,-0.080129,533276.0302999998,182715.30760000087,511
+Grow,98C Wallis Road; Main Yard; London E9 5LN,,,Hackney,www.grow-hackney.squarespace.com,,E09000012,Hackney Wick,E05009374,51.544161,-0.023633,537145.0637999997,184657.82809999958,511
+Biddle Bros,"88 Lower Clapton,  London, E5 0QR",Hackney,88 Lower Clapton R,Hackney,,100000000000,E09000012,Springfield,E05009383,51.571495,-0.066167,534115.5807999996,187618.6311000008,511
+Moth Club,"Valette Street, London, Hackney, E9 6NU",Hackney,Hackney Trades Hal,Hackney,www.mothclub.co.uk,100000000000,E09000012,Homerton,E05009376,51.545251,-0.05465,534991.2127999999,184721.4416000005,511
+Vortex Jazz Club,11 Gillett Square; De Beauvoir; London N16 8JH; Un,Hackney,11 Gillett Square,Hackney,https://www.vortexjazz.co.uk/,10091818908,E09000012,Dalston,E05009370,51.54932,-0.076517,533463.1452000001,185133.78529999964,511
+Oslo Hackney,"1a Amhurst Road, Hackney, London,  E8 1LL",,1A Amhurst Rd,Hackney,www.oslohackney.com,10008289187,E09000012,Hackney Central,E05009372,51.547982,-0.05752,534784.1613999996,185019.84050000086,511
+Servant Jazz Quarters,"10a Bradbury Street , Dalston, N16 8JH",Hackney,10 Bradbury Street,Hackney,www.servantjazzquarters.com,10008302207,E09000012,Dalston,E05009370,51.548642,-0.076722,533450.9128,185058.01620000042,511
+Village Underground,54 Holywell Lane; Shoreditch; London EC2A 3PQ; Uni,Hackney,54 Holywell Lane,Hackney,www.villageunderground.co.uk,10091784233,E09000012,Hoxton East & Shoreditch,E05009377,51.523788,-0.078034,533432.5756999999,182291.77910000086,511
+Roadtrip And The Workshop,243 Old Street,Hackney,,Hackney,www.roadtripbar.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.5261559,-0.082418851,533121.5016000001,182547.10510000028,511
+Shacklewell Arms,71 Shaclewell Lane,Hackney,71 Shacklewell Lan,Hackney,www.shacklewellarms.com,10091775225,E09000012,Shacklewell,E05009382,51.55197766,-0.069878565,533915.6036,185441.4617999997,511
+Macbeth (The),70 Hoxton St,,,Hackney,https://www.themacbeth.co.uk/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52963421,-0.078437184,533387.5256000003,182941.15139999986,511
+St John At Hackney Church,St. John At Hackney Church,Lower Clapton Road,,Hackney,https://saint.church/,10091775145,E09000012,Homerton,E05009376,51.54869171,-0.051726509,535183.7319999998,185109.44830000028,511
+Queen Of Hoxton,1-5 Curtain Road; Hoxton; London EC2A 3JX; United ,Hackney,1 Curtain Road,Hackney,www.queenofhoxton.com/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.522175,-0.081428,533201.8448000001,182106.2263999991,511
+Strongroom,120-124 Curtain Road,Shoreditch,,Hackney,https://www.strongroombar.com/,0,E09000012,Hoxton East & Shoreditch,E05009377,51.52549931,-0.078538806,533392.5582999997,182481.1587000005,511
+Waiting Room,175 Stoke Newington High St,Stoke Newington,,Hackney,https://threecrownsn16.com/index.php/gigs/,100000000000,E09000012,Stoke Newington,E05009385,51.56155873,-0.072243251,533723.6122000003,186502.56519999914,511
+Finsbury (The),336 Green Lanes,Harringay,,Hackney,https://www.thefinsbury.co.uk/,100000000000,E09000012,Woodberry Down,E05009387,51.57144052,-0.094686014,532139.4430999998,187560.62600000016,511
+Rosemary Branch,2 Shepperton Road,,,Hackney,,5300082551,E09000012,Hoxton East & Shoreditch,E05009377,51.53711297,-0.085347327,532886.4656999996,183760.22660000063,511
+Spread Eagle,"3-5 Kingsland Road, London, E2 8DA, United Kingdom",City Of Westminster,8 Woodstock Street,Hackney,www.greeneking-pubs.co.uk/pub/spread-eagle-marylebone,10033584775,E09000012,Hoxton East & Shoreditch,E05009377,51.528466,-0.078167,533409.6793999998,182811.73709999956,511
+Charlie Wright Bar,5 Houghton Street Charing Cross,,,Hackney,,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.5271871,-0.082231334,533131.5016000001,182662.11730000004,511
+Colours Hoxton,2-4 Hoxton Square London,,2-4 Hoxton Square ,Hackney,www.hoxtonsquarebar.com,10091942715,E09000012,Hoxton East & Shoreditch,E05009377,51.52699562,-0.080422675,533257.5148999998,182644.11739999987,511
+Number 90,90 Wallis Road,Hackney,90 Wallis Road,Hackney,www.number90bar.co.uk,100000000000,E09000012,Hackney Wick,E05009374,51.5438807,-0.021137394,537318.9463999998,184631.33159999922,511
+Tipsy,"20 Stoke Newington Road, London N16 7XN",Hackney,20 Stoke Newington,Hackney,,100000000000,E09000012,Shacklewell,E05009382,51.551156,-0.074951,533566.3494999995,185340.81179999933,511
+Bar 512,512 Kingsland Road,Hackney,512 Kingsland Road,Hackney,,100000000000,E09000012,London Fields,E05009381,51.54347765,-0.074190376,533641.5475000003,184488.34869999997,511
+Vfd,66 Stoke Newington Road; Dalston; London N16 7XB; ,Hackney,66 Stoke Newington,Hackney,,100000000000,E09000012,Shacklewell,E05009382,51.552572,-0.074649,533583.1457000002,185498.82540000044,511
+The Glory,281 Kingsland Road,Hackney,281 Kingsland Road,Hackney,www.theglory.co,100000000000,E09000012,Haggerston,E05009375,51.53568418,-0.075528878,533571.5362999998,183619.2385000009,511
+Bar A Bar,133-135 Stoke Newington Road; Stoke Newington; Lon,Hackney,133-135 Stoke Newi,Hackney,www.barabar.info/,100000000000,E09000012,Stoke Newington,E05009385,51.556337,-0.074701,533568.5303999996,185917.40530000068,511
+Moustache Bar,58 Stoke Newington Road; Dalston; London N16 7XB; ,Hackney,58 Stoke Newington,Hackney,www.moustachebar.co.uk/,100000000000,E09000012,Shacklewell,E05009382,51.552327,-0.074798,533573.5324999997,185471.30870000087,511
+Ridley Road Market Bar,49 Ridley Road; London E8 2NP; United Kingdom,Hackney,49 Ridley Road,Hackney,www.ridleyroadmarketbar.com/,100000000000,E09000012,Dalston,E05009370,51.548193,-0.073243,533693.4330000002,185014.44319999963,511
+Trafik,331 Old St; Hoxton; London EC1 9LE; United Kingdom,Hackney,331 Old Street,Hackney,www.trafik-london.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.527011,-0.080557,533248.1527000004,182645.58300000057,511
+Basing House,25 Kingsland Road; Shoreditch; London E2 8AA; Unit,Hackney,25 Kingsland Road,Hackney,www.basinghouse.co.uk/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52844,-0.078204,533407.1890000002,182808.77840000018,511
+The Hoxton Pony,104-108 Curtain Rd,,104-108 Curtain Rd,Hackney,http://www.thehoxtonpony.com,10008241848,E09000012,Hoxton East & Shoreditch,E05009377,51.52491417,-0.078535011,533394.5311000003,182416.09720000066,511
+Junction House,"578 Kingsland Road, London, E8 4AH",Hackney,578 Kingsland Road,Hackney,,100000000000,E09000012,Dalston,E05009370,51.545587,-0.075603,533537.4282,184720.3342000004,511
+Vision Video Bar,588 Kingsland Road,Hackney,588 Kingsland Road,Hackney,,10008291713,E09000012,Dalston,E05009370,51.54538817,-0.073878908,533657.5522999996,184701.37490000017,511
+The Lighthouse Bar And Club,62 Rivington Street,Hackney,62 Rivington Stree,Hackney,,10091889776,E09000012,Hoxton East & Shoreditch,E05009377,51.52564358,-0.078042927,533426.5336999996,182498.1060000006,511
+Trapeze Bar,89 Great Eastern Street,Hackney,89 Great Eastern S,Hackney,www.trapezebar.co.uk,10091904454,E09000012,Hoxton East & Shoreditch,E05009377,51.52518388,-0.081825315,533165.5071,182440.0951000005,511
+The Old Baths & Cre8 Galleries,80 Eastway,Hackney,80 Eastway,Hackney,,100000000000,E09000012,Hackney Wick,E05009374,51.54666541,-0.027882673,536842.8923000004,184928.37710000016,511
+Shoreditch Town Hall,380 Old Street; Shoreditch; London EC1V 9LT; Unite,Hackney,380 Old Street,Hackney,www.shoreditchtownhall.com,10091784164,E09000012,Hoxton East & Shoreditch,E05009377,51.527125,-0.07952,533319.7496999996,182660.1492999997,511
+The Others,6-8 Manor Rd Stoke Newington,London,6-8 Manor Rd Stoke,Hackney,www.theothers.uk.com,0,E09000012,Cazenove,E05009368,51.56534951,-0.073064162,533655.6167000001,186922.60590000078,511
+The Round Chapel,1d Glenarm Road,Hackney,1d Glenarm Road,Hackney,,10008322921,E09000012,Homerton,E05009376,51.55167728,-0.050084181,535288.7494000001,185444.4791000001,511
+The Passage,27 Dalston Lane,Hackney,27 Dalston Lane,Hackney,,100000000000,E09000012,Dalston,E05009370,51.54590275,-0.0712608,533837.5750000002,184763.38859999925,511
+The Old Church,Hackney ,,Hackney ,Hackney,,10008252145,E09000012,Clissold,E05009369,51.56049123,-0.082287635,533030.5210999995,186365.52859999985,511
+Shapes,"117 Wallis Road, E9 5LN Hackney, Hackney, United K",Hackney Wick,,Hackney,http://www.shapearts.org.uk,100000000000,E09000012,Hackney Wick,E05009374,51.544487,-0.023297,537167.3815000001,184694.70849999972,511
+Echoes,"261 Kingsland Road, Haggerston E2 8AS",Hackney,,Hackney,www.echoeslondon.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.535532,-0.077097,533463.2322000004,183599.4503000006,511
+Bedroom Bar (The),62 Rivington Street,Hackney,,Hackney,www.bedroom-bar.co.uk,10091889776,E09000012,Hoxton East & Shoreditch,E05009377,51.52564358,-0.078042927,533426.5336999996,182498.1060000006,511
+Kamio,1-3 Rivington Street,Hackney,,Hackney,www.iamkam.io,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52565809,-0.081675622,533174.5076000001,182493.10050000064,511
+Birthdays,"33-35 Stoke Newington Road, N16 8BJ, United Kingdo",,,Hackney,,,E09000012,Shacklewell,E05009382,51.551775,-0.075194,533547.693,185409.20179999992,511
+Cordy House,87-95 Curtain Road; Shoreditch; London EC2 3SB Uni,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.525289,-0.080604,533249.9183999998,182454.00840000063,511
+Canvas Bar,"235 Old Street, London, EC1V 9HE",,,Hackney,,100000000000,E09000012,Hoxton West,E05009378,51.526455,-0.085316,532919.6705999998,182575.0979999993,511
+Miranda,"100 Shoreditch High Street, London, E1 6JQ",Hackney,100 Shoreditch Hig,Hackney,,10008293853,E09000012,Hoxton East & Shoreditch,E05009377,51.525416,-0.077285,533479.773,182474.1813999992,511
+Scrutton Street Warehouse,73-75 Scrutton Street; Shoreditch; London EC2A 4PJ,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.5239,-0.08078,533241.7633999996,182299.22900000028,511
+Hammerschlagen,"79 Stoke Newington Road, London, N16 8AD",,,Hackney,,100000000000,E09000012,Shacklewell,E05009382,51.553714,-0.074848,533566.0104999999,185625.45419999957,511
+Hackney Trashbar,"175B Stoke Newington Road, N16 8BP, London",,,Hackney,,10008332185,E09000012,Stoke Newington,E05009385,51.55706,-0.074603,533573.2094,185997.98330000043,511
+Basement 55,55 Stoke Newington High Street; London N16 8EL; Un,,,Hackney,,100000000000,E09000012,Stoke Newington,E05009385,51.558716,-0.074533,533573.2185000004,186182.26160000078,511
+Mangle E8,13-18 Warburton Rd London,,13-18 Warburton Rd,Hackney,www.manglee8.com,0,E09000012,Victoria,E05009386,51.53837036,-0.05626323,534899.6712999996,183953.32799999975,511
+Shelter,267 Kingsland Road,Hackney,267 Kingsland Road,Hackney,,100000000000,E09000012,Haggerston,E05009375,51.53515369,-0.075536836,533572.5372000001,183560.23139999993,511
+The Old Shoreditch Station,1 Kingsland Road,Hackney,1 Kingsland Road,Hackney,,10091775140,E09000012,Hoxton East & Shoreditch,E05009377,51.52688174,-0.076765226,533511.5411999999,182638.12230000086,511
+New Empowering Church,1a Westgate Street; London Fields; London E8 3RL; ,,,Hackney,,,E09000012,London Fields,E05009381,51.537564,-0.05831,534760.1157,183859.8850999996,511
+Grotto Outre,"Unit 104, 134-146 Curtain Road, London, EC2A 3AR",,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.526627,-0.080086,533281.9440000001,182603.7396000009,511
+Old Cholmeley Boys Club,"68 Boleyn Rd, London N16 8JG",,,Hackney,,,E09000012,Dalston,E05009370,51.5489,-0.077199,533417.0880000005,185085.83559999987,511
+Old Street Records,"350-354 Old Street, London, EC1V 9NQ, United Kingd",,,Hackney,https://www.oldstreetrecords.com/,,E09000012,Hoxton East & Shoreditch,E05009377,51.526787,-0.080648,533242.4944000002,182620.5081999991,511
+Earth Hackney,11-17 Stoke Newington Rd,,11-17 Stoke Newing,Hackney,https://www.earthackney.co.uk,,E09000012,Shacklewell,E05009382,51.551104,-0.075291,533542.9298999999,185334.40819999948,511
+Paper Dress Vintage,"352A Mare Street, Hackney E8 1HR",,352 Mare Street,Hackney,www.paperdressvintage.co.uk,,E09000012,Hackney Central,E05009372,51.547292,-0.054639,534985.9446999999,184948.42420000024,511
+Kansas Smitty's (Looking For A New Home),63-65 Broadway Market,,,Hackney,https://www.kansassmittys.com,0,E09000012,London Fields,E05009381,51.53681714,-0.059806198,534658.5620999997,183774.07499999925,511
+Scenario,97 Stoke Newington Road; London N16 8BX; United Ki,,,Hackney,http://www.barscenario.co.uk,10008306167,E09000012,Shacklewell,E05009382,51.554396,-0.074941,533557.5691,185701.12399999984,511
+Mascara Bar,72 Stamford Hill; Stoke Newington; London N16 6XS,,,Hackney,http://www.mascarabar.co.uk,10091817946,E09000012,Cazenove,E05009368,51.567041,-0.072955,533658.2307000002,187110.90249999985,511
+Mannequin Magazine,"378 Kingsland Road, London, E8 4AA",,,Hackney,,100000000000,E09000012,London Fields,E05009381,51.54116,-0.076307,533501.5586999999,184226.74799999967,511
+Floripa,"91-93 Great Eastern Street, Shoreditch, London EC2",,,Hackney,www.floripalondon.com,,E09000012,Hoxton East & Shoreditch,E05009377,51.525828,-0.083386,533055.3711000001,182508.88269999996,511
+Hoxton Basement,"12-18 Hoxton St, N1 6NG (Basement Entrance on Drys",,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.527985,-0.079147,533343.1102999998,182756.46240000054,511
+Night Tales Loft,"207, 1 Westgate St, Hackney, London E8 3RL",,,Hackney,,,E09000012,London Fields,E05009381,51.537584,-0.057723,534800.7635000004,183863.19079999998,511
+Rolling Stock,"48 Kingsland Road, Shoreditch E2 8AA",,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.529067,-0.077806,533432.9621000001,182879.2276000008,511
+Total Refreshment Centre,"Unit 2, Farleigh Place, N16 7SX",,2A Foulden Road,Hackney,www.totalrefreshment.net,,E09000012,Stoke Newington,E05009385,51.555351,-0.073547,533651.4112999998,185809.86950000003,511
+Hackney Showroom,"Hackney Downs Studio, Amhurst Terrace London, Engl",,,Hackney,www.hackneyshowroom.com,,E09000012,Shacklewell,E05009382,51.554731,-0.066865,534116.4400000004,185753.16229999997,511
+Love Vinyl Records,5 Pearson Street E2 8JD,,,Hackney,www.lovevinyl.london,,E09000012,Haggerston,E05009375,51.532847,-0.076043,533544.1840000004,183302.79399999976,511
+Canvas One,"148-150 Curtain Road, EC2A 3AR",,,Hackney,www.blankcanvas.co.uk/london-venues/canvas-one,,E09000012,Hoxton East & Shoreditch,E05009377,51.526756,-0.080109,533279.9720000001,182618.0427000001,511
+100 Shoreditch,100 Shoreditch High Street,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.52555635,-0.077295632,533478.6251999997,182489.76909999922,511
+Guest Projects,"Sunbury House, 1 Andrews Road, E8 4QL Londres",Andrews Road,Sunbury House 1,Hackney,http://www.guestprojects.com,100000000000,E09000012,London Fields,E05009381,51.535642,-0.061643,534534.6470999997,183640.01329999976,511
+The Rocksteady,574 Kingsland Road,Hackney,574 Kingsland Road,Hackney,,10091775595,E09000012,Dalston,E05009370,51.54501022,-0.073866023,533659.5520000001,184659.3691000007,511
+Three Crowns,175 Stoke Newington High Street; Stoke Newington; ,Hackney,175 Stoke Newingto,Hackney,http://www.threecrownsn16.com,100000000000,E09000012,Stoke Newington,E05009385,51.562584,-0.073793,533613.1953999996,186613.74310000055,511
+Blues Kitchen Shoreditch (The),134-146 Curtain Road,,,Hackney,https://www.theblueskitchen.com/shoreditch/,,E09000012,Hoxton East & Shoreditch,E05009377,51.526290021,-0.079990011,533289.5859000003,182566.44189999998,511
+Gigis Hoxton Underbelly,11 Hoxton Square,,,Hackney,https://www.gigishoxton.com,,E09000012,Hoxton East & Shoreditch,E05009377,51.527790004,-0.081590032,533174.2257000003,182730.32840000093,511
+Passing Clouds,1 Richmond Rd,Dalston,,Hackney,https://www.passingclouds.org/,,E09000012,London Fields,E05009381,51.541560004,-0.076159984,533510.5835999995,184271.49870000035,511
+Glove That Fits (The),179 Morning Lane,,,Hackney,,,E09000012,Homerton,E05009376,51.546929996,-0.049060034,535373.8168000001,184918.4656000007,511
+London Fields Arches,369-370 Helmsley Place,,,Hackney,,,E09000012,London Fields,E05009381,51.539479993,-0.058659995,534730.1928000003,184072.30340000056,511
+Nest (The),36 Stoke Newington Rd Dalston,,,Hackney,www.ilovethenest.com,,E09000012,Shacklewell,E05009382,51.55160999,-0.07497998,533563.0129000004,185391.24340000004,511
+Nightjar,129 City Road,,,Hackney,https://www.barnightjar.com,,E09000012,Hoxton West,E05009378,51.526690005,-0.087730028,532751.5395999998,182596.8479999993,511
+Jago Dalston (The),440 Kingsland Rd,Dalston,,Hackney,https://www.thejagodalston.com,,E09000012,London Fields,E05009381,51.541560004,-0.076159984,533510.5835999995,184271.49870000035,511
+Colours,2-4 Hoxton Square,,,Hackney,https://colourshoxton.com/,,E09000012,Hoxton East & Shoreditch,E05009377,51.527790004,-0.081590032,533174.2257000003,182730.32840000093,511
+Hoxton Cabin Ltd,"132 Kingsland Rd, London E2 8DP",,,Hackney,,,E09000012,Haggerston,E05009375,51.529729996,-0.077400003,533459.1836999999,182953.69490000047,511
+Medicine Bar & Nightclub,89 Great Eastern Street,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.525900011,-0.08334998,533057.6597999996,182516.95600000024,511
+Hoxton Arches Events Limited,"Arch 402 Cremer St, London E2 8HD",,,Hackney,,,E09000012,Haggerston,E05009375,51.530369996,-0.076659964,533508.6403000001,183026.2156000007,511
+The Guitar Social - Hackney,3 Mare Street,Hackney,3 Mare Street,Hackney,Contact Us - The Guitar Social,,E09000012,London Fields,E05009381,51.534899995,-0.057259966,534840.8038999997,183565.5714999996,511
+The Book Club,100-106 Leonard Street,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.524629985,-0.081720036,533174.4255999997,182378.6928000003,511
+The Old Blue Last,38 Great Eastern Street,Hackney,38 Great Eastern S,Hackney,www.theoldbluelast.com,,E09000012,Hoxton East & Shoreditch,E05009377,51.52387021,-0.078492461,533400.5328000002,182300.0848999992,511
+Troy Bar,10 Hoxton St; Hoxton; London N1 6NG; United Kingdo,Hackney,10 Hoxton Street,Hackney,www.troybar.co.uk,10008242403,E09000012,Hoxton East & Shoreditch,E05009377,51.527631,-0.080129,533276.0302999998,182715.30760000087,511
+Grow,98C Wallis Road; Main Yard; London E9 5LN,,,Hackney,www.grow-hackney.squarespace.com,,E09000012,Hackney Wick,E05009374,51.544161,-0.023633,537145.0637999997,184657.82809999958,511
+Biddle Bros,"88 Lower Clapton,  London, E5 0QR",Hackney,88 Lower Clapton R,Hackney,,100000000000,E09000012,Springfield,E05009383,51.571495,-0.066167,534115.5807999996,187618.6311000008,511
+Moth Club,"Valette Street, London, Hackney, E9 6NU",Hackney,Hackney Trades Hal,Hackney,www.mothclub.co.uk,,E09000012,Homerton,E05009376,51.545251,-0.05465,534991.2127999999,184721.4416000005,511
+Vortex Jazz Club,11 Gillett Square; De Beauvoir; London N16 8JH; Un,Hackney,11 Gillett Square,Hackney,https://www.vortexjazz.co.uk/,10091818908,E09000012,Dalston,E05009370,51.54932,-0.076517,533463.1452000001,185133.78529999964,511
+Oslo Hackney,"1a Amhurst Road, Hackney, London,  E8 1LL",,1A Amhurst Rd,Hackney,www.oslohackney.com,10008289187,E09000012,Hackney Central,E05009372,51.547982,-0.05752,534784.1613999996,185019.84050000086,511
+Servant Jazz Quarters,"10a Bradbury Street , Dalston, N16 8JH",Hackney,10 Bradbury Street,Hackney,www.servantjazzquarters.com,10008302207,E09000012,Dalston,E05009370,51.548642,-0.076722,533450.9128,185058.01620000042,511
+Village Underground,54 Holywell Lane; Shoreditch; London EC2A 3PQ; Uni,Hackney,54 Holywell Lane,Hackney,www.villageunderground.co.uk,10091784233,E09000012,Hoxton East & Shoreditch,E05009377,51.523788,-0.078034,533432.5756999999,182291.77910000086,511
+Roadtrip And The Workshop,243 Old Street,Hackney,,Hackney,www.roadtripbar.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.5261559,-0.082418851,533121.5016000001,182547.10510000028,511
+Shacklewell Arms,71 Shaclewell Lane,Hackney,71 Shacklewell Lan,Hackney,www.shacklewellarms.com,10091775225,E09000012,Shacklewell,E05009382,51.5524,-0.069878565,533914.3653999995,185488.42669999972,511
+Macbeth (The),70 Hoxton St,,,Hackney,https://www.themacbeth.co.uk/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52963421,-0.078437184,533387.5256000003,182941.15139999986,511
+St John At Hackney Church,St. John At Hackney Church,Lower Clapton Road,,Hackney,https://saint.church/,10091775145,E09000012,Homerton,E05009376,51.54869171,-0.051726509,535183.7319999998,185109.44830000028,511
+Queen Of Hoxton,1-5 Curtain Road; Hoxton; London EC2A 3JX; United ,Hackney,1 Curtain Road,Hackney,www.queenofhoxton.com/,,E09000012,Hoxton East & Shoreditch,E05009377,51.522175,-0.081428,533201.8448000001,182106.2263999991,511
+Strongroom,120-124 Curtain Road,Shoreditch,,Hackney,https://www.strongroombar.com/,0,E09000012,Hoxton East & Shoreditch,E05009377,51.52549931,-0.078538806,533392.5582999997,182481.1587000005,511
+Waiting Room,175 Stoke Newington High St,Stoke Newington,,Hackney,https://threecrownsn16.com/index.php/gigs/,100000000000,E09000012,Stoke Newington,E05009385,51.56155873,-0.072243251,533723.6122000003,186502.56519999914,511
+Finsbury (The),336 Green Lanes,Harringay,,Hackney,https://www.thefinsbury.co.uk/,100000000000,E09000012,Woodberry Down,E05009387,51.57144052,-0.094686014,532139.4430999998,187560.62600000016,511
+Shapes,"117 Wallis Road, E9 5LN Hackney, Hackney, United K",Hackney Wick,,Hackney,http://www.shapearts.org.uk,100000000000,E09000012,Hackney Wick,E05009374,51.544487,-0.023297,537167.3815000001,184694.70849999972,511
+Echoes,"261 Kingsland Road, Haggerston E2 8AS",Hackney,,Hackney,www.echoeslondon.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.535532,-0.077097,533463.2322000004,183599.4503000006,511
+Bedroom Bar (The),62 Rivington Street,Hackney,,Hackney,www.bedroom-bar.co.uk,10091889776,E09000012,Hoxton East & Shoreditch,E05009377,51.52564358,-0.078042927,533426.5336999996,182498.1060000006,511
+Kamio,1-3 Rivington Street,Hackney,,Hackney,www.iamkam.io,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52565809,-0.081675622,533174.5076000001,182493.10050000064,511
+Birthdays,"33-35 Stoke Newington Road, N16 8BJ, United Kingdo",,,Hackney,,,E09000012,Shacklewell,E05009382,51.551775,-0.075194,533547.693,185409.20179999992,511
+Cordy House,87-95 Curtain Road; Shoreditch; London EC2 3SB Uni,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.525289,-0.080604,533249.9183999998,182454.00840000063,511
+Old Street Records,"350-354 Old Street, London, EC1V 9NQ, United Kingd",,,Hackney,https://www.oldstreetrecords.com/,,E09000012,Hoxton East & Shoreditch,E05009377,51.526787,-0.080648,533242.4944000002,182620.5081999991,511
+Earth Hackney,11-17 Stoke Newington Rd,,11-17 Stoke Newing,Hackney,https://www.earthackney.co.uk,,E09000012,Shacklewell,E05009382,51.551104,-0.075291,533542.9298999999,185334.40819999948,511
+Paper Dress Vintage,"352A Mare Street, Hackney E8 1HR",,352 Mare Street,Hackney,www.paperdressvintage.co.uk,,E09000012,Hackney Central,E05009372,51.547292,-0.054639,534985.9446999999,184948.42420000024,511
+Kansas Smitty's (Looking For A New Home),63-65 Broadway Market,,,Hackney,https://www.kansassmittys.com,0,E09000012,London Fields,E05009381,51.53681714,-0.059806198,534658.5620999997,183774.07499999925,511
+Colours,2-4 Hoxton Square,,,Hackney,https://colourshoxton.com/,10091942715,E09000012,Hoxton East & Shoreditch,E05009377,51.52699562,-0.080422675,533257.5148999998,182644.11739999987,511
+Colours Hoxton,2-4 Hoxton Square London,,2-4 Hoxton Square ,Hackney,www.hoxtonsquarebar.com,10091942715,E09000012,Hoxton East & Shoreditch,E05009377,51.52699562,-0.080422675,533257.5148999998,182644.11739999987,511
+Gigis Hoxton Underbelly,11 Hoxton Square,,,Hackney,https://www.gigishoxton.com,,E09000012,Hoxton East & Shoreditch,E05009377,51.527790004,-0.081590032,533174.2257000003,182730.32840000093,511
+Blues Kitchen Shoreditch (The),134-146 Curtain Road,,,Hackney,https://www.theblueskitchen.com/shoreditch/,,E09000012,Hoxton East & Shoreditch,E05009377,51.526290021,-0.079990011,533289.5859000003,182566.44189999998,511
+Passing Clouds,1 Richmond Rd,Dalston,,Hackney,https://www.passingclouds.org/,,E09000012,London Fields,E05009381,51.541560004,-0.076159984,533510.5835999995,184271.49870000035,511
+London Fields Arches,369-370 Helmsley Place,,,Hackney,,,E09000012,London Fields,E05009381,51.539479993,-0.058659995,534730.1928000003,184072.30340000056,511
+Glove That Fits (The),179 Morning Lane,,,Hackney,,,E09000012,Homerton,E05009376,51.546929996,-0.049060034,535373.8168000001,184918.4656000007,511
+Nest (The),36 Stoke Newington Rd Dalston,,,Hackney,www.ilovethenest.com,,E09000012,Shacklewell,E05009382,51.55160999,-0.07497998,533563.0129000004,185391.24340000004,511
+Nightjar,129 City Road,,,Hackney,https://www.barnightjar.com,,E09000012,Hoxton West,E05009378,51.526690005,-0.087730028,532751.5395999998,182596.8479999993,511
+Jago Dalston (The),440 Kingsland Rd,Dalston,,Hackney,https://www.thejagodalston.com,,E09000012,London Fields,E05009381,51.541560004,-0.076159984,533510.5835999995,184271.49870000035,511
+The Guitar Social - Hackney,3 Mare Street,Hackney,3 Mare Street,Hackney,Contact Us - The Guitar Social,,E09000012,London Fields,E05009381,51.534899995,-0.057259966,534840.8038999997,183565.5714999996,511
+Electricity Showrooms,39a Hoxton Square; Hoxton; London N1 6NN; United K,Hackney,39 Hoxton Square,Hackney,www.electricityshowrooms.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.527348,-0.080444,533255.0071999999,182683.26380000077,511
+Victorian Vaults,82 Great Eastern Street; Shoreditch; London EC2A 3,,,Hackney,,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.525967,-0.083369,533056.1452000001,182524.37069999985,511
+Colours Hoxton,2-4 Hoxton Square London,,2-4 Hoxton Square ,Hackney,www.hoxtonsquarebar.com,10091942715,E09000012,Hoxton East & Shoreditch,E05009377,51.52699562,-0.080422675,533257.5148999998,182644.11739999987,511
+Number 90,90 Wallis Road,Hackney,90 Wallis Road,Hackney,www.number90bar.co.uk,,E09000012,Hackney Wick,E05009374,51.5436,-0.021137394,537319.7909000004,184600.1174999997,511
+Tipsy,"20 Stoke Newington Road, London N16 7XN",Hackney,20 Stoke Newington,Hackney,,100000000000,E09000012,Shacklewell,E05009382,51.551156,-0.074951,533566.3494999995,185340.81179999933,511
+Bar 512,512 Kingsland Road,Hackney,512 Kingsland Road,Hackney,,,E09000012,London Fields,E05009381,51.5428,-0.074190376,533643.5306000002,184412.9916999992,511
+Vfd,66 Stoke Newington Road; Dalston; London N16 7XB; ,Hackney,66 Stoke Newington,Hackney,,100000000000,E09000012,Shacklewell,E05009382,51.552572,-0.074649,533583.1457000002,185498.82540000044,511
+The Glory,281 Kingsland Road,Hackney,281 Kingsland Road,Hackney,www.theglory.co,100000000000,E09000012,Haggerston,E05009375,51.53568418,-0.075528878,533571.5362999998,183619.2385000009,511
+Bar A Bar,133-135 Stoke Newington Road; Stoke Newington; Lon,Hackney,133-135 Stoke Newi,Hackney,www.barabar.info/,100000000000,E09000012,Stoke Newington,E05009385,51.556337,-0.074701,533568.5303999996,185917.40530000068,511
+Moustache Bar,58 Stoke Newington Road; Dalston; London N16 7XB; ,Hackney,58 Stoke Newington,Hackney,www.moustachebar.co.uk/,100000000000,E09000012,Shacklewell,E05009382,51.552327,-0.074798,533573.5324999997,185471.30870000087,511
+Ridley Road Market Bar,49 Ridley Road; London E8 2NP; United Kingdom,Hackney,49 Ridley Road,Hackney,www.ridleyroadmarketbar.com/,100000000000,E09000012,Dalston,E05009370,51.548193,-0.073243,533693.4330000002,185014.44319999963,511
+Trafik,331 Old St; Hoxton; London EC1 9LE; United Kingdom,Hackney,331 Old Street,Hackney,www.trafik-london.com,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.527011,-0.080557,533248.1527000004,182645.58300000057,511
+The Lighthouse,Unit 1a 190 New North Road,Islington,Unit 1a 190 New No,Hackney,,10091889776,E09000012,Hoxton East & Shoreditch,E05009377,51.52564358,-0.078042927,533426.5336999996,182498.1060000006,511
+Basing House,25 Kingsland Road; Shoreditch; London E2 8AA; Unit,Hackney,25 Kingsland Road,Hackney,www.basinghouse.co.uk/,100000000000,E09000012,Hoxton East & Shoreditch,E05009377,51.52844,-0.078204,533407.1890000002,182808.77840000018,511
+The Hoxton Pony,104-108 Curtain Rd,,104-108 Curtain Rd,Hackney,http://www.thehoxtonpony.com,10008241848,E09000012,Hoxton East & Shoreditch,E05009377,51.52491417,-0.078535011,533394.5311000003,182416.09720000066,511
+Junction House,"578 Kingsland Road, London, E8 4AH",Hackney,578 Kingsland Road,Hackney,,100000000000,E09000012,Dalston,E05009370,51.545587,-0.075603,533537.4282,184720.3342000004,511
+Vision Video Bar,588 Kingsland Road,Hackney,588 Kingsland Road,Hackney,,10008291713,E09000012,Dalston,E05009370,51.54538817,-0.073878908,533657.5522999996,184701.37490000017,511
+The Lighthouse Bar And Club,62 Rivington Street,Hackney,62 Rivington Stree,Hackney,,10091889776,E09000012,Hoxton East & Shoreditch,E05009377,51.52564358,-0.078042927,533426.5336999996,182498.1060000006,511
+Trapeze Bar,89 Great Eastern Street,Hackney,89 Great Eastern S,Hackney,www.trapezebar.co.uk,10091904454,E09000012,Hoxton East & Shoreditch,E05009377,51.52518388,-0.081825315,533165.5071,182440.0951000005,511
+Miranda,"100 Shoreditch High Street, London, E1 6JQ",Hackney,100 Shoreditch Hig,Hackney,,10008293853,E09000012,Hoxton East & Shoreditch,E05009377,51.525416,-0.077285,533479.773,182474.1813999992,511
+Scrutton Street Warehouse,73-75 Scrutton Street; Shoreditch; London EC2A 4PJ,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.5239,-0.08078,533241.7633999996,182299.22900000028,511
+Hammerschlagen,"79 Stoke Newington Road, London, N16 8AD",,,Hackney,,100000000000,E09000012,Shacklewell,E05009382,51.553714,-0.074848,533566.0104999999,185625.45419999957,511
+Hackney Trashbar,"175B Stoke Newington Road, N16 8BP, London",,,Hackney,,10008332185,E09000012,Stoke Newington,E05009385,51.55706,-0.074603,533573.2094,185997.98330000043,511
+Basement 55,55 Stoke Newington High Street; London N16 8EL; Un,,,Hackney,,100000000000,E09000012,Stoke Newington,E05009385,51.558716,-0.074533,533573.2185000004,186182.26160000078,511
+Mangle E8,13-18 Warburton Rd London,,13-18 Warburton Rd,Hackney,www.manglee8.com,0,E09000012,Victoria,E05009386,51.53837036,-0.05626323,534899.6712999996,183953.32799999975,511
+Shelter,267 Kingsland Road,Hackney,267 Kingsland Road,Hackney,,100000000000,E09000012,Haggerston,E05009375,51.53515369,-0.075536836,533572.5372000001,183560.23139999993,511
+Mascara Bar,72 Stamford Hill; Stoke Newington; London N16 6XS,,,Hackney,http://www.mascarabar.co.uk,10091817946,E09000012,Cazenove,E05009368,51.567041,-0.072955,533658.2307000002,187110.90249999985,511
+Mannequin Magazine,"378 Kingsland Road, London, E8 4AA",,,Hackney,,100000000000,E09000012,London Fields,E05009381,51.54116,-0.076307,533501.5586999999,184226.74799999967,511
+Floripa,"91-93 Great Eastern Street, Shoreditch, London EC2",,,Hackney,www.floripalondon.com,,E09000012,Hoxton East & Shoreditch,E05009377,51.525828,-0.083386,533055.3711000001,182508.88269999996,511
+Hoxton Basement,"12-18 Hoxton St, N1 6NG (Basement Entrance on Drys",,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.527985,-0.079147,533343.1102999998,182756.46240000054,511
+Night Tales Loft,"207, 1 Westgate St, Hackney, London E8 3RL",,,Hackney,,,E09000012,London Fields,E05009381,51.537584,-0.057723,534800.7635000004,183863.19079999998,511
+Grow,98C Wallis Road; Main Yard; London E9 5LN,,,Hackney,www.grow-hackney.squarespace.com,,E09000012,Hackney Wick,E05009374,51.544161,-0.023633,537145.0637999997,184657.82809999958,511
+Biddle Bros,"88 Lower Clapton,  London, E5 0QR",Hackney,88 Lower Clapton R,Hackney,,100000000000,E09000012,Springfield,E05009383,51.571495,-0.066167,534115.5807999996,187618.6311000008,511
+Moth Club,"Valette Street, London, Hackney, E9 6NU",Hackney,Hackney Trades Hal,Hackney,www.mothclub.co.uk,,E09000012,Homerton,E05009376,51.545251,-0.05465,534991.2127999999,184721.4416000005,511
+Vortex Jazz Club,11 Gillett Square; De Beauvoir; London N16 8JH; Un,Hackney,11 Gillett Square,Hackney,https://www.vortexjazz.co.uk/,10091818908,E09000012,Dalston,E05009370,51.54932,-0.076517,533463.1452000001,185133.78529999964,511
+Oslo Hackney,"1a Amhurst Road, Hackney, London,  E8 1LL",,1A Amhurst Rd,Hackney,www.oslohackney.com,10008289187,E09000012,Hackney Central,E05009372,51.547982,-0.05752,534784.1613999996,185019.84050000086,511
+Servant Jazz Quarters,"10a Bradbury Street , Dalston, N16 8JH",Hackney,10 Bradbury Street,Hackney,www.servantjazzquarters.com,10008302207,E09000012,Dalston,E05009370,51.548642,-0.076722,533450.9128,185058.01620000042,511
+Village Underground,54 Holywell Lane; Shoreditch; London EC2A 3PQ; Uni,Hackney,54 Holywell Lane,Hackney,www.villageunderground.co.uk,10091784233,E09000012,Hoxton East & Shoreditch,E05009377,51.523788,-0.078034,533432.5756999999,182291.77910000086,511
+Three Crowns,175 Stoke Newington High Street; Stoke Newington; ,Hackney,175 Stoke Newingto,Hackney,http://www.threecrownsn16.com,100000000000,E09000012,Stoke Newington,E05009385,51.562584,-0.073793,533613.1953999996,186613.74310000055,511
+Medicine Bar & Nightclub,89 Great Eastern Street,,,Hackney,,,E09000012,Hoxton East & Shoreditch,E05009377,51.525900011,-0.08334998,533057.6597999996,182516.95600000024,511
+Noatune Studios,Netil House 1 Westgate St,,Salusbury Road,Hackney,https://www.noatune.com/about,No UPRN,E09000012,Victoria,E05009386,51.5369662,-0.05619327,534908.6726000002,183797.30939999968,511
+Sound Savers Recording Studio,Unit 24 Sedgwick St,,,Hackney,http://soundsavers.net/,10025026438,E09000012,Homerton,E05009376,51.54717255,-0.04258843,535821.7832000004,184957.4129000008,511
+Nelly Ben Hayoun Studios Ltd,112 Chatsworth Road,Hackney,,Hackney,https://nellyben.com/,200002790695,E09000012,King's Park,E05009379,51.55447573,-0.043688711,535723.7863999996,185767.4985000007,511
+Baltic Studios,Unit 1 Baltic Place,Kingsland Road,,Hackney,https://milocostudios.com/studios/baltic-studios/,10008238735,E09000012,Haggerston,E05009375,51.53624247,-0.07550704,533571.4167,183681.36240000091,511
+Strongroom Bar And Kitchen,120-124 Curtain Road,Hackney,,Hackney,http://www.strongroombar.com,100022932925,E09000012,Hoxton East & Shoreditch,E05009377,51.52549931,-0.078538806,533392.5582999997,182481.1587000005,511
+Secretsundaze Studios,Unit 4 2-18 Warburton Rd,London,,Hackney,http://www.secretsundazestudios.net/,10008332630,E09000012,Victoria,E05009386,51.53823289,-0.056089377,534912.1332,183938.36180000007,511
+Urchin Studios,Unit 1 2-18 Warburton Rd,,,Hackney,www.urchinstudios.co.uk,10008332627,E09000012,Victoria,E05009386,51.53828843,-0.055661001,534941.6755999997,183945.32809999958,511
+Silent Studios,32 Fortescue Avenue,Hackney,,Hackney,,10008318992,E09000012,Victoria,E05009386,51.54008541,-0.055555553,534943.6812000005,184145.34940000065,511
+Hot Money Studios,Studio A06 Mainyard Studios ,92-94 Wallis Road,,Hackney,www.hotmoneystudios.com, 10008352464,E09000012,Hackney Wick,E05009374,51.544189,-0.022665068,537212.0937000001,184662.75359999947,511
+Nelly Ben Hayoun Studios Ltd ,"Platform 1, Village Underground",54 Holywell Lane,,Hackney,https://nellyben.com/, 100022933097,E09000012,Hoxton East & Shoreditch,E05009377,51.523626,-0.078594319,533394.1805999996,182272.74269999936,511
+Premises Studios,209 Hackney Road,,,Hackney,https://www.premisesstudios.com/,100022992386,E09000012,Haggerston,E05009375,51.531228,-0.07162765,533855.1561000003,183130.82789999992,511
+Wax Studios ,73-75 Shacklewell Ln,Clapton,,Hackney,N/A ,No UPRN,E09000012,Shacklewell,E05009382,51.55289,-0.07101,533834.4914999995,185540.8434999995,511
+Total Refreshment Studios,2 Foulden Road,,,Hackney,http://totalrefreshment.net/,10008274727,E09000012,Stoke Newington,E05009385,51.55579,-0.07398,533620.1107000001,185857.89550000057,511
+Pirate Studios - Dalston ,42-56 Tottenham Road,,,Hackney,https://pirate.com/en/locations/london-dalston/,100023133864,E09000012,De Beauvoir,E05009371,51.545472,-0.078193369,533358.1574999997,184702.8161999993,511
+Hazey Studios,230a Dalston Lane,Unit 10 ,,Hackney,https://www.hazeystudios.com/,100023014634,E09000012,Hackney Central,E05009372,51.548564,-0.061202166,534527.1566000003,185077.78119999915,511
+Oto Project Space,1-7 Ashwin Street ,,,Hackney,https://www.cafeoto.co.uk/info/,100023016515,E09000012,Dalston,E05009370,51.54598889,-0.073218864,533701.5586999999,184769.38419999927,511
+Arcola Studio,24 Ashwin Street,,,Hackney,https://www.arcolatheatre.com/about/hire/,10008349712,E09000012,Dalston,E05009370,51.54691,-0.075,533575.3673999999,184868.55870000087,511
+Gillet Square  Studios,Unit 10 Gillett Square,,,Hackney,,200001883973,E09000012,Dalston,E05009370,51.54821356,-0.07499219,533572.0968000004,185013.5320999995,511
+Rooz Studios,35 Corsham Street ,,,Hackney,www.roozstudios.co.uk,10008332356,E09000012,Hoxton West,E05009378,51.52718185,-0.085764051,532886.4760999996,182655.11099999957,511
+Premises Studios,209 Hackney Road,Hackney,,Hackney,www.premisesstudios.com,10008340948,E09000012,Haggerston,E05009375,51.53109,-0.07156,533860.2528999997,183115.60539999977,511
+Hoxton Hall,130 Hoxton Street,Hackney,,Hackney,www.hoxtonhall.co.uk,10008342751,E09000012,Hoxton East & Shoreditch,E05009377,51.53177,-0.08001,533272.1997999996,183175.7899999991,511
+Kafri Studios,357 Railway Arches,Laburnum Street,Hackney,Hackney,www.kafristudios.co.uk,10008238318,E09000012,Haggerston,E05009375,51.53433182,-0.074230388,533665.5476000002,183471.22479999997,511
+Rising Tide Trust,270 Mare Street,Hackney,,Hackney,,100023014120,E09000012,Homerton,E05009376,51.54465,-0.05465,534992.9885999998,184654.60950000025,511
+Lsh Spaces,Atlas Wharf Berkshire Road,Hackney,,Hackney,www.lshspaces.com,10091898280,E09000012,Hackney Wick,E05009374,51.54418191,-0.022999424,537188.9315999998,184661.33919999935,511
+The Blue Studios,160 Dalston Lane,Hackney,,Hackney,www.thebluestudios.co.uk,No UPRN,E09000012,Hackney Central,E05009372,51.54813,-0.06594,534199.9530999996,185020.81680000015,511
+Gunfactory Studios,Unit 2 2a,Barnabas Road,Hackney,Hackney,www.gunfactorystudios.com,10008340190,E09000012,Homerton,E05009376,51.54765955,-0.041052908,535926.7928999998,185014.4151000008,511
+Vortex Jazz Club,11 Gillett Square,Hackney,,Hackney,www.vortexjazz.co.uk,10091818908,E09000012,Dalston,E05009370,51.54830363,-0.075068435,533566.5471999999,185023.4087000005,511
+Reel Rebels Music Studios,7a Bouverie Mews ,,,Hackney,"http://reelrebelsradio.com/studio-hire/
+http://reelrebelsmusicstudios.weebly.com/",No UPRN,E09000012,Stoke Newington,E05009385,51.56269,-0.07832,533299.1157,186617.26479999907,511
+Karma Studios Ltd.,7a Bouverie Mews,Hackney,,Hackney,,100023544546,E09000012,Stoke Newington,E05009385,51.56265,-0.07829,533301.3118000003,186612.87140000053,511
+Gillet Square Studios,Unit B7, 3 Bradbury St,,Hackney,http://www.gillettsquare.org.uk/home,No UPRN,E09000012,Dalston,E05009370,51.54866,-0.07584,533512.0110999998,185061.62829999998,511
+Dalston Rehearsal Studio,73 Stoke Newington Rd,,,Hackney,https://dalstonrehearsalstudio.co.uk/, 100023161781,E09000012,Shacklewell,E05009382,51.553605,-0.075124287,533547.1756999996,185612.82850000076,511
+Pirate Studios - Dalston ,42-56 Tottenham Road,,,Hackney,https://pirate.com/en/locations/london-dalston/,100023133864,E09000012,De Beauvoir,E05009371,51.545472,-0.078193369,533358.1574999997,184702.8161999993,511
+Sets Appeal Limited,New River Studios,199 Eade Road,,Hackney,http://www.setsappeal.co.uk/about/,10022945372,E09000012,Woodberry Down,E05009387,51.57444685,-0.086549795,532694.5247999998,187909.6780999992,511
+The Costume Studio,Montgomery House,159-161  Balls Pond Road,,Hackney,http://www.costumestudio.co.uk/,100023133608,E09000012,De Beauvoir,E05009371,51.54583387,-0.080769306,533178.4951999998,184738.36099999957,511
+KEMP London,32 Shacklewell Lane,,,Hackney,https://www.kemplondon.com,100023015578,E09000012,Dalston,E05009370,51.550857,-0.072643936,533727.1694,185311.78030000068,511
+Howling Hands,"Unit 3, Lockwood Way",,,Hackney,https://www.howlinghands.com,No UPRN,E09000012,Hackney Wick,E05009374,51.5442,-0.02436,537094.5382000003,184660.8047000002,511
+Prop Studios,121 Curtain Road ,Shoreditch,,Hackney,https://www.propstudios.co.uk/,See notes,E09000012,Hoxton East & Shoreditch,E05009377,51.52592,-0.08055,533251.8224999998,182524.27490000054,511
+Kemp London ,32 Shackwell Lane,,,Hackney,http://www.kemplondon.com/,100023015578,E09000012,Dalston,E05009370,51.55035077,-0.071029366,533840.5886000004,185258.44140000083,511
+Pendragon ,1-3  Yorkton Street,,,Hackney,http://www.pendragonframes.com,100022991141,E09000012,Haggerston,E05009375,51.53127138,-0.067510223,534140.6003,183143.19700000063,511
+Sets Appeal Limited,New River Studios,199 Eade Road,,Hackney,http://www.setsappeal.co.uk/about/,10022945372,E09000012,Woodberry Down,E05009387,51.57444685,-0.086549795,532694.5247999998,187909.6780999992,511
+Other Fabrications Ltd,"Studio 5, 19 Warburton Road",London,,Hackney,https://otherfabrications.com/,No UPRN,E09000012,London Fields,E05009381,51.53839,-0.05779,534793.7375999996,183952.69730000012,511
+Fabrications,7 Broadway Market,,,Hackney,https://fabrications1.co.uk,100023016949,E09000012,London Fields,E05009381,51.53542244,-0.060729564,534598.6416999996,183617.27800000086,511
+Hackney Walk - Stitch Academy,116Morning Lane,,,Hackney,https://www.hackneywalk.com/stitch-academy/,10008240891,E09000012,Homerton,E05009376,51.54649908,-0.048589097,535407.7454000004,184871.4171999991,511
+Stoke Newington Library,184 Stoke Newington Church Street,,,Hackney,https://spacestudios.org.uk/buildings/stoke-newington-library/,100023154905,E09000012,Clissold,E05009369,51.561617,-0.082822041,532990.2007999998,186489.7438999992,511
+The London Embroidery Studio,"38 Ermine Mews, Laburnum St, London, E2 8BF",,,Hackney,https://www.londonembroiderystudio.com/,100023546633,E09000012,Haggerston,E05009375,51.535542,-0.07587201,533548.1562000001,183602.80040000007,511
+Triangle,129-131 Mare Street,Hackney,,Hackney,https://spacestudios.org.uk/buildings/triangle-e8/,100023546930,E09000012,London Fields,E05009381,51.538442,-0.057580331,534808.1239,183958.86620000005,511
+Mirjam Rouden Ltd,"Unit 11, Links Yard, 29a Spelman St, London E1 5LX",,,Hackney,https://www.instagram.com/mirjamrouden/,10008304101,E09000012,Hoxton East & Shoreditch,E05009377,51.529358,-0.080991367,533211.1749,182905.7820999995,511
+Circleline,"Unit E4, Dalston Culture House, 3 Bradbury St, Lon",,,Hackney,https://www.circlelinedesign.com,100023648272,E09000012,Dalston,E05009370,51.548667,-0.076154851,533490.1613999996,185061.8317000009,511
+Grow Studios,"86b & 98c Wallis Road, Main Yard Hackney Wick, E9 ",,,Hackney,https://www.growhackneystudios.com/home/,100023018517,E09000012,Hackney Wick,E05009374,51.544389,-0.022757378,537205.0919000003,184684.82100000046,511
+Make Town,"2a Chatham Place Corner Morning Lane &, Chatham Pl",,,Hackney,https://make.town,10008342934,E09000012,Homerton,E05009376,51.546937,-0.050901328,535246.1357000005,184915.84469999932,511
+Eastside Educational Trust,Suite 16 Perseverance Works,37 Hackney Road,,Hackney,www.eastside.org.uk,,E09000012,Hoxton East & Shoreditch,E05009377,51.52788,-0.07657,533522.1630999995,182749.4866000004,511
+Graeae Theatre Company,138 Kingsland Road,,,Hackney,www.graeae.org,10091775254,E09000012,Haggerston,E05009375,51.53116206,-0.076823044,533495.0126999998,183113.99819999933,511
+Hackney Attic,270 Mare Street,,,Hackney,https://www.picturehouses.com/cinema/Hackney_Picturehouse,100023014120,E09000012,Homerton,E05009376,51.54503626,-0.054950482,534971.0130000003,184697.00769999996,511
+Hackney Showroom ‚Äì Studio Space,Amhurst Terrace,,,Hackney,https://www.hackneyshowroom.com/,10091775026,E09000012,Shacklewell,E05009382,51.55476067,-0.067115126,534099.0137,185756.0030000005,511
+Chats Palace,42-44 Brooksby's Road,,,Hackney,https://chatspalace.com/rehearsals-auditions/,100023020798,E09000012,King's Park,E05009379,51.55013033,-0.042761181,535801.0078999996,185286.00210000016,511
+ISTD2 Dance Studios,346 Old St,,,Hackney,www.istd.org/istd2-hire,10008291785,E09000012,Hoxton East & Shoreditch,E05009377,51.52659738,-0.080879184,533227.0120000001,182599.0011,511
+"Breather, Charlotte Road",29 Charlotte Road,,,Hackney,https://breather.com/locations/london/29-charlotte-rd,10091784230,E09000012,Hoxton East & Shoreditch,E05009377,51.52537308,-0.081348764,533198.0116999997,182462.00200000033,511
+blank100,100 De Beauvoir Road,,,Hackney,https://www.blank100.co.uk/,100023134419,E09000012,De Beauvoir,E05009371,51.54215729,-0.079950314,533246.0126,184331,511
+Dance Research Studio,23 Orsman Rd,Haggerston,,Hackney,http://www.jackylansley.co.uk/pdfs/StudioHire.pdf,10008237591,E09000012,Hoxton East & Shoreditch,E05009377,51.53614877,-0.078761295,533346.0109000001,183664.9985000007,511
+Total Refreshment Studios,2A Foulden Rd,,,Hackney,http://totalrefreshment.net/,10008274727,E09000012,Stoke Newington,E05009385,51.55550288,-0.07232018,533736.0120999999,185829.0025999993,511
+VFDalston,66 Stoke Newington Road,,,Hackney,https://www.vfdalston.com/calendar,100021076631,E09000012,Shacklewell,E05009382,51.55256417,-0.07462241,533585.0120000001,185498.00329999998,511
+St Matthias Church,Wordsworth Road,Stoke Newington,,Hackney,www.movingeast.co.uk,10008239574,E09000012,Clissold,E05009369,51.55249752,-0.079327632,533259.0115999999,185482.00400000066,511
+Hackney Showroom,4 Murrain Road,Kings Crescent Estate, ,Hackney,https://www.hackneyshowroom.com/,10008343497,E09000012,Brownswood,E05009367,51.56253,-0.092479079,532318.2026000004,186573.7441000007,511
+Centre 151,151 Whiston Road,,,Hackney,http://www.centre151.com/space-hire/studio-1-2/,100022992424,E09000012,Haggerston,E05009375,51.53517,-0.070783312,533902.1497,183570.74450000003,511
+St Mary's Stoke Newington,The Old Church,Church Street,Stoke Newington,Hackney,https://www.theoldchurch.org.uk/,10008300268,E09000012,Clissold,E05009369,51.561387,-0.084736107,532858.2013999997,186460.6864,511
+Arcola Theatre,24 Ashwin St, Dalston,,Hackney,https://www.arcolatheatre.com/about/hire/,10008321023,E09000012,Dalston,E05009370,51.546912,-0.074974098,533577.1574999997,184868.82840000093,511
+Tower Theatre ,16 Northwold Road,,,Hackney,https://www.towertheatre.org.uk/spaces/,100023160491,E09000012,Stoke Newington,E05009385,51.562815,-0.071979626,533738.2054000003,186642.74719999917,511
+National Centre for Circus Arts ,Coronet Street,,,Hackney,https://www.nationalcircus.org.uk/professional-artists/1041-2/,100023135567,E09000012,Hoxton East & Shoreditch,E05009377,51.52753,-0.08255,533108.3981999997,182699.6685000006,511
+May Scott Studio,Hoxton Hall,130 Hoxton St,,Hackney,hoxtonhall.co.uk/hire/our-spaces/,100023135707,E09000012,Hoxton East & Shoreditch,E05009377,51.53177,-0.080010438,533272.1694999998,183175.78920000046,511
+Ample Space,117 Wallis Road,Hackney Wick,,Hackney,https://www.amplespace.co.uk/,100023018427,E09000012,Hackney Wick,E05009374,51.544734,-0.023535607,537150.0948999999,184721.7285999991,511
+Shoreditch Town Hall,380 Old Street,,,Hackney,https://shoreditchtownhall.com/event-hire/spaces-for-hire.html,100022930896,E09000012,Hoxton East & Shoreditch,E05009377,51.526675,-0.079129146,533348.1749999998,182610.82100000046,511
+Chats Palace Arts Centre ,42-44 Brooksby's Walk,London,,Hackney,https://chatspalace.com/,100023020798,E09000012,King's Park,E05009379,51.550263,-0.042710633,535804.1174999997,185300.84889999963,511
+"Empire 2, Ground Floor",Hackney Empire,291 Mare St,,Hackney,https://hackneyempire.co.uk/hire/spaces/,100023014084,E09000012,Hackney Central,E05009372,51.54552,-0.055504915,534931.142,184749.77749999985,511
+Courtyard Theatre,40 Pitfield Street,,,Hackney,NA,10091002509,E09000012,Hoxton West,E05009378,51.52838974,-0.084962889,532938.5301000001,182790.88570000045,511
+Rose Lipman Building,43 De Beauvoir Rd,,,Hackney,http://www.themillcoproject.co.uk/spaces/the-rose-lipman-building/,10008241945,E09000012,De Beauvoir,E05009371,51.5394745,-0.083199392,533028.5376000004,184026.74090000056,511
+Hackney Arts Centre - EartH (Evolutiory Arts Hackney),11-17 Stoke Newington Road, Stoke Newington,,Hackney,https://www.hackneyartscentre.org/,10008300562,E09000012,Shacklewell,E05009382,51.55140177,-0.076999466,533423.6151,185364.4012000002,511
+Shoreditch Town Hall,380 Old St,,,Hackney,https://shoreditchtownhall.com/,10008305130,E09000012,Hoxton East & Shoreditch,E05009377,51.52759052,-0.081289113,533195.6801000005,182708.6933999993,511
+Church Street Theatre ,St Mary’s Centre, Church Street,Stoke Newington,Hackney,NA,10008310096,E09000012,Clissold,E05009369,51.5616175,-0.086015172,532768.8757999996,186483.99420000054,511
+Hackney Showroom,Hackney Downs Studios, Amhurst Terrace,,Hackney,NA,10091775026,E09000012,Stoke Newington,E05009385,51.55496024,-0.069737442,533916.6425999999,185773.38829999976,511
+Hackney Empire,291 Mare St,,,Hackney,https://hackneyempire.co.uk/,100023014084,E09000012,Hackney Central,E05009372,51.54657726,-0.057085172,534818.4540999997,184864.4327000007,511
+Chats Palace,42-44 Brooksby's Road,,,Hackney,https://chatspalace.com/,100023020798,E09000012,Homerton,E05009376,51.5506371,-0.044378545,535687.3761,185339.35950000025,511
+tiol Centre for Circus Arts ,Coronet Street,,,Hackney,NA,100023135567,E09000012,Hoxton West,E05009378,51.52803008,-0.083867984,533015.5221999995,182752.8811000008,511
+Hoxton Hall,130 Hoxton St,,,Hackney,https://www.hoxtonhall.co.uk/,100023135707,E09000012,Hoxton East & Shoreditch,E05009377,51.53232501,-0.081609167,533159.6687000003,183234.59500000067,511
+Tower Theatre ,16 Northwold Road,,,Hackney,http://www.towertheatre.org.uk/relo.htm,100023160491,E09000012,Stoke Newington,E05009385,51.56332345,-0.073542349,533628.4044000003,186696.42960000038,511
+Hackney Showroom,4 Murrain Road,Kings Crescent Estate,,Hackney,https://www.hackneyshowroom.com/,10008343497,E09000012,Brownswood,E05009367,51.56253,-0.092479079,532318.2026000004,186573.7441000007,511
+Graeae Theatre Company,138 Kingsland Road,,,Hackney,https://graeae.org/event/,100022990986 ,E09000012,Haggerston,E05009375,51.532797,-0.07683844,533489.1629999997,183295.78109999932,511

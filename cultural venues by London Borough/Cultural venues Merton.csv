@@ -1,0 +1,65 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing,fme_feature_type.total_count
+Royal British Nurses Association,The Princess Royal House TA Centre ,Stonecott Hill  London Road,SM3 9HG,Merton,http://www.rbna.org.uk/,48085285,E09000024,Lower Morden,E05013819,51.38293674,-0.215506154,524277.79169999994,166387.37299999967,64
+Royal Medical Benevolent Fund,24 Kings Road, ,SW19 8QN,Merton,https://rmbf.org/,48038818,E09000024,Wimbledon Town & Dundonald,E05013829,51.42115468,-0.201544771,525145.0120999999,170661.00280000083,64
+University of the Arts London: Wimbledon College of A,Main Building ,Merton Hall Road ,SW19 3QA,Merton,https://www.arts.ac.uk/colleges/wimbledon-college-of-arts,48049311,E09000024,Wimbledon Town & Dundonald,E05013829,51.41350764,-0.21213045,524429.7801999999,169792.63419999927,64
+Wimbledon Lawn Tennis Museum: Kenneth Ritchie Wimbled,Church Road, ,SW19 5AE,Merton,https://www.wimbledon.com/en_GB/atoz/library_research_enquiries.html,48100056,E09000024,Village,E05013825,51.43449072,-0.2144734,524210.01219999976,172122.00269999914,64
+Wimbledon Society Museum of Local History,22 Ridgway ,Wimbledon ,SW19 4QD,Merton,http://www.wimbledonmuseum.org.uk/,48059798,E09000024,Village,E05013825,51.42361787,-0.216205974,524119.0097000003,170910.0047999993,64
+Lombard Rd,21c Lombard Rd,,,Merton,www.acava.org,48130102,E09000024,Abbey,E05013810,51.40966428,-0.189427848,526019.0137,169404.00329999998,64
+Phipps Bridge,The Old Laundry,Phipps Bridge Rd,,Merton,www.acava.org,48111562,E09000024,Cricket Green,E05013813,51.40526325,-0.182225598,526532.0124000004,168927.00689999945,64
+Cannizaro Park,Potting Sheds,Cannizaro Park,,Merton,www.acava.org,48124885,E09000024,Village,E05013825,51.42373831,-0.232511218,522985.10639999993,170895.9383000005,64
+SET Wimbledon,1-3 Wellington Works,Wimbledon,,Merton,https://setspace.uk/studios,See notes,E09000024,Wimbledon Park,E05013828,51.43763,-0.19643,525455.5396999996,172501.79499999993,64
+Odeon Wimbledon,,39 The Broadway,SW19 1QB,Merton,,48105080,E09000024,Wimbledon Town & Dundonald,E05013829,51.419983,-0.20489463,524915.3008000003,170525.00229999982,64
+Curzon Wimbledon (HMV) ,Second Floor,23 The Broadway,SW19 1RE,Merton,,,E09000024,Wimbledon Town & Dundonald,E05013829,51.42033,-0.20554,524869.4852,170562.49000000022,64
+The Cynthia Corbett Gallery,15 Claremont Lodge,,,Merton,http://www.thecynthiacorbettgallery.com/#,48022286,E09000024,Raynes Park,E05013823,51.41499765,-0.221209569,523794.4249999998,169942.9592000004,64
+9 & 17 Lyon Road,9 & 17 Lyon Road,Wimbledon,,Merton,https://mainyardstudios.co.uk/private-offices-music-studios-wimbledon/,48046261 ,E09000024,Abbey,E05013810,51.412121,-0.18662351,526207.2766000004,169682.0131000001,64
+Pollards Studios,50 Montgomery Close,Mitcham,,Merton,www.launchit.org.uk/launch-it-london,48051309,E09000024,Pollards Hill,E05013821,51.398053,-0.12578111,530478.2038000003,168224.01769999973,64
+Main Yard Studios,Main Yard Studios,17 Lyon Road,,Merton,https://mainyardstudios.co.uk/wimbledon/,48124136,E09000024,Abbey,E05013810,51.41225573,-0.184817408,526332.4995999997,169700.10339999944,64
+Pollards Studios,50 Montgomery Close,Mitcham,,Merton,www.launchit.org.uk/launch-it-london,48051309,E09000024,Pollards Hill,E05013821,51.398053,-0.12578111,530478.2038000003,168224.01769999973,64
+New Wimbledon Theatre,93 The Broadway,,,Merton,http://newwimbledontheatre.net,48008413,E09000024,Abbey,E05013810,51.41914644,-0.201365109,525162.9820999997,170437.99290000089,64
+Polka Theatre for Children,240 The Broadway,,,Merton,https://polkatheatre.com/home/about-us/contact-us/,48008566,E09000024,Abbey,E05013810,51.41973108,-0.194975806,525605.6235999996,170513.92259999923,64
+SW19 Rehearsal studios,62 Weir Road,,,Merton,http://www.sw-19.net,48071997,E09000024,Wimbledon Park,E05013828,51.43756211,-0.190039546,525899.8627000004,172505.19239999913,64
+Wimbledon Dance Academy,71 Woodside,,,Merton,http://wimbledondanceacademy.co.uk,48105415,E09000024,Hillside,E05013816,51.42302561,-0.209209793,524607.0109000001,170856.00400000066,64
+Ursuline School,11 Crescent Rd,,,Merton,http://www.ursulinehigh.merton.sch.uk,48130420,E09000024,Raynes Park,E05013823,51.41508498,-0.223383704,523643.01209999993,169949.0022,64
+New Wimbledon Theatre,93 The Broadway,,,Merton,http://newwimbledontheatre.net,48008413,E09000024,Abbey,E05013810,51.41914644,-0.201365109,525162.9820999997,170437.99290000089,64
+Polka Theatre for Children,240 The Broadway,,,Merton,https://polkatheatre.com/home/about-us/contact-us/,48008566,E09000024,Abbey,E05013810,51.41973108,-0.194975806,525605.6235999996,170513.92259999923,64
+Wiseman Clothing,22 Weir Road,,,Merton,http://www.wisemanclothing.com/,48122006,E09000024,Wimbledon Park,E05013828,51.43301041,-0.191467907,525813.0833,171996.59300000034,64
+Eden Studio ,Unit 19 Windsor Park,50 Windsor Avenue,,Merton,http://www.edenstudiolondon.com/,10094251753,E09000024,Abbey,E05013810,51.411675,-0.185120636,526313.0125000002,169635.00400000066,64
+AForce London,"Unit B, Alpha House, Alpha Place, London, Morden S",,,Merton,https://www.aforce.co.uk/,See notes,E09000024,Lower Morden,E05013819,51.3844,-0.22369,523704.3909,166536.2603999991,64
+Theresa Treasures Limited,Unit 1c The Show House,Watermill Way,,Merton,https://theresatreasures.co.uk/,48129844,E09000024,Colliers Wood,E05013812,51.41312585,-0.181874995,526534.7105,169801.9310999997,64
+Lombard Road Studios,21c Lombard Rd,,,Merton,https://www.acava.org/building/lombard-road-studios/,48130102,E09000024,Abbey,E05013810,51.409665,-0.18945276,526017.2792999996,169404.04059999995,64
+CMYK,105-109 Broadway ,,SW19 1QG,Merton,,48112845,E09000024,Abbey,E05013810,51.4193181,-0.201184227,525175.0903000003,170457.3900000006,64
+West Barnes Library,,,,Merton,,48085264,E09000024,West Barnes,E05013827,51.39463987,-0.237525903,522714.3057000004,167651.71600000001,64
+Pollards Hill Library,,,,Merton,,48065103,E09000024,Pollards Hill,E05013821,51.3995746,-0.13027904,530161.0005000001,168385.23420000076,64
+Morden Library,,,,Merton,,48083350,E09000024,St Helier,E05013824,51.40100796,-0.194447903,525693.6151999999,168432.7951999996,64
+Raynes Park Library,,,,Merton,,48128562,E09000024,Raynes Park,E05013823,51.40858096,-0.226221534,523463.1978000002,169220.95639999956,64
+Mitcham Library,,,,Merton,,48083196,E09000024,Figge's Marsh,E05013814,51.40810347,-0.160877126,528008.8531,169279.88460000046,64
+Colliers Wood Library,,,,Merton,,48121555,E09000024,Colliers Wood,E05013812,51.41810235,-0.175888599,526937.2148000002,170365.65359999985,64
+Wimbledon Library,,,,Merton,,48127190,E09000024,Hillside,E05013816,51.42192157,-0.206383148,524806.5328000002,170738.03869999945,64
+Coriander Glass,27 Kingston Road,Wimbledon,,Merton,https://www.corianderstainedglass.co.uk/,48039322,E09000024,Abbey,E05013810,51.415671,-0.19406193,525680.2862,170064.00730000064,64
+Wandle Industrial Museum,The Vestry Hall Annexe,London Road,Mitcham,Merton,http://www.wandle.org/,48083242,E09000024,Cricket Green,E05013813,51.4017516,-0.166466478,527637.8128000004,168563.8147,64
+Museum of Wimbledon,22 Ridgway,Wimbledon,NA,Merton,http://www.wimbledonmuseum.org.uk/,48107954,E09000024,Village,E05013825,51.42283672,-0.215074838,524199.7653000001,170825.05360000022,64
+Wimbledon Lawn Tennis Museum,The All England Lawn Tennis Club,Church Road,Wimbledon,Merton,http://www.wimbledon.com/museum,48129052,E09000024,Village,E05013825,51.43320243,-0.212459281,524353.4992000004,171982.15640000068,64
+The Cavern,100-102 Coombe Lane,,,Merton,,48126372,E09000024,Raynes Park,E05013823,51.40929292,-0.232317388,523037.35639999993,169289.88189999945,64
+The Pod,105-109 The Broadway,Merton,105-109 The Broadw,Merton,,48112845,E09000024,Abbey,E05013810,51.41873191,-0.199546193,525290.5817999998,170395.00129999965,64
+The Watershed,267 The Broadway,,,Merton,,,E09000024,Abbey,E05013810,51.419420001,-0.194940018,525608.9636000004,170479.39200000092,64
+The Pod,105-109 The Broadway,Merton,105-109 The Broadw,Merton,,,E09000024,Abbey,E05013810,51.4188,-0.199546193,525290.3958,170402.5728999991,64
+The Watershed,267 The Broadway,,,Merton,,,E09000024,Abbey,E05013810,51.419420001,-0.194940018,525608.9636000004,170479.39200000092,64
+Tape Studios,4 Springfield Road,,,Merton,https://tapelondon.com/tape-studio/,48066224,E09000024,Hillside,E05013816,51.4245136,-0.202123666,525095.6036999999,171033.52789999917,64
+Crown Lane Studio,8b Crown Lane,Merton,,Merton,www.crownlanestudio.co.uk,48130591,E09000024,St Helier,E05013824,51.40130581,-0.193932924,525728.619,168466.79920000024,64
+Mainyard Studios,9 & 17 Lyon Road,Wimbledon,,Merton,https://mainyardstudios.co.uk/private-offices-music-studios-wimbledon/,48046261 ,E09000024,Abbey,E05013810,51.412121,-0.18662351,526207.2766000004,169682.0131000001,64
+Crown Lane Studio,8b Crown Lane,Merton,,Merton,www.crownlanestudio.co.uk,48130591,E09000024,St Helier,E05013824,51.40130581,-0.193932924,525728.619,168466.79920000024,64
+Propability,50 Willow Lane,Mitcham,,Merton,https://www.propability.co.uk/,48130319,E09000024,Cricket Green,E05013813,51.392495,-0.16723296,527610.2397999996,167533.12769999914,64
+White Light Ltd,20 Merton Industrial Park,Jubilee Way,,Merton,https://www.whitelight.ltd.uk,48101205,E09000024,Abbey,E05013810,51.41079639,-0.186377363,526228.0378,169535.13910000026,64
+Setsquare Staging,3-9 Willow Lane,,,Merton,http://www.setsquarestaging.com,48117019,E09000024,Cricket Green,E05013813,51.39246427,-0.160929414,528048.8591,167540.69180000015,64
+Firecracker Works,The Old Aircraft Hangar,Wimbledon West Goods Yard,Dundonald Rd,Merton,https://www.firecrackerworks.co.uk/,No UPRN,E09000024,Wimbledon Town & Dundonald,E05013829,51.41862,-0.20922,524618.2719,170366.07799999975,64
+Scott Fleary Productions,"Units 1-4, Block A, Vale Industrial Park",170 Rowan Road,,Merton,https://www.scottfleary.com/,48117792,E09000024,Longthornton,E05013818,51.409765,-0.14123467,529370.1997999996,169499.05269999988,64
+Standbuilder,11-15A Lyon Road,London,,Merton,http://standbuilder.co.uk/en/,48046262,E09000024,Abbey,E05013810,51.412247,-0.18604332,526247.2756000003,169697.0225000009,64
+Skyline Whitespace Exhibition Stands and Events,320 Western Road,,,Merton,https://www.skylinewhitespace.com/,48085938,E09000024,Lavender Fields,E05013817,51.412638,-0.17647933,526911.2591000004,169757.00119999982,64
+Lantern Arts Centre,Tolverne Road,Raynes Park,,Merton,www.lanternarts.org,48111953,E09000024,Raynes Park,E05013823,51.41137928,-0.229869091,523202.0125000002,169526.00180000067,64
+The Colour House Theatre,Merton Abbey Mills, Watermill Way,,Merton,http://www.colourhousetheatre.co.uk/,48112460,E09000024,Colliers Wood,E05013812,51.413484,-0.18346338,526423.2717000004,169839.0195000004,64
+New Wimbledon Theatre,93 The Broadway, Wimbledon,,Merton,http://www.atgtickets.com/venues/new-wimbledon-theatre/,48008413,E09000024,Wimbledon Town & Dundonald,E05013829,51.41980863,-0.202895753,525054.7531000003,170509.01830000058,64
+Polka Theatre,240 The Broadway, Wimbledon,,Merton,https://polkatheatre.com/,48008566,E09000024,Wimbledon Town & Dundonald,E05013829,51.42019874,-0.196078435,525527.6801000005,170564.03949999996,64
+Merton Arts Space,Compton Rd, Wimbledon,,Merton,https://arena.yourlondonlibrary.net/web/merton/merton-arts-space-wimbledon,48017144,E09000024,Hillside,E05013816,51.42374316,-0.208465413,524656.8121999996,170937.06069999933,64
+Collyer Hall Theatre,King's College School, Southside, Wimbledon Common,Merton,https://www.kcs.org.uk/the-kings-community/venue-hire/performance-venues,48065710,E09000024,Village,E05013825,51.42244793,-0.227707485,523322.5445999997,170760.5081999991,64
+Lantern Arts Centre,Tolverne Road, Raynes Park,,Merton,https://www.lanternarts.org/,48111953,E09000024,Raynes Park,E05013823,51.41189908,-0.231459924,523089.99060000014,169581.1333000008,64
+The Colour House Theatre,Merton Abbey Mills, Watermill Way,,Merton,http://www.colourhousetheatre.co.uk/,48112460,E09000024,Abbey,E05013810,51.41351461,-0.184766213,526332.5928999996,169840.17940000072,64

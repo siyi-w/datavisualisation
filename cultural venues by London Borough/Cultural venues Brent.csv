@@ -1,0 +1,92 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing,fme_feature_type.total_count
+Brent Museum and Archives,The Library at Willesden Green ,95 High Road Willesden,NW10 2SF,Brent,https://www.brent.gov.uk/archives,202149110,E09000005,Willesden Green,E05013517,51.5466504,-0.228921501,522904.0119000003,184570.00269999914,91
+Second Floor Studios & Arts,Palace Arts Way,,,Brent,https://www.secondfloor.co.uk/studios/wembley-park,No UPRN,E09000005,Wembley Park,E05013516,51.55954185,-0.283276549,519101.6723999996,185913.7820999995,91
+Harrow Road,733 Harrow Road,Kensal Green,,Brent,www.acme.org.uk,202199583,E09000005,Queens Park,E05013507,51.53083547,-0.230314269,522850.01159999985,182809.00129999965,91
+Light Factory Studios,6 scrubs Lane,,,Brent,http://www.lightfactoryworkshops.co.uk,202040584,E09000005,Harlesden & Kensal Green,E05013501,51.53204976,-0.238701755,522265.00930000003,182929.99899999984,91
+Create Space London,"Wembly Point, 1 Harrow Rd",,,Brent,createspacelondon.org,202197437,E09000005,Tokyngton,E05013512,51.54461354,-0.273896663,519791.0133999996,184269.00310000032,91
+Barham Park,660 Harrow Rd,,,Brent,www.acava.org,202209700,E09000005,Wembley Central,E05013514,51.55232008,-0.310992689,517199.00930000003,185066.0025999993,91
+Honeypot Lane,"1-2 Palm Court, 1-2 Tulip Court, 1 Acacia Court",,,Brent,www.acava.org,202208355,E09000005,Queensbury,E05013508,51.59056614,-0.283819623,518983.01209999993,189363.00489999913,91
+Create Space London,"Former Willesden Green Police Station, 96 High Rd",Willesden,,Brent,https://www.createspacelondon.org/?fbclid=IwAR3z5OP_MsyfZ64PwpV3CIIng3-2rGQqD_lhIhL1391Zn1HTKsXZDYp9VTc,202086681,E09000005,Willesden Green,E05013517,51.547169,-0.23071436,522778.3074000003,184624.66459999979,91
+Oxgate House,Oxgate lane,Brent Cross,,Brent,https://artistic-spaces.co.uk/oxgate-house,202231810,E09000005,Dollis Hill,E05013500,51.56777,-0.23124223,522686.2790999999,186914.65479999967,91
+ASC Studios Alperton,243 Ealing Road,Alperton,,Brent,https://ascstudios.co.uk/studios/,See notes,E09000005,Alperton,E05013496,51.53892,-0.29908,518059.5407999996,183594.9854000006,91
+The Library at Willesdon Green,95 High Road,Willesden ,NW10 2SF,Brent,https://www.brent.gov.uk/your-council/the-library-at-willesden-green/,202149110,E09000005,Willesden Green,E05013517,51.5466504,-0.228921501,522904.0119000003,184570.00269999914,91
+The Lexi Cinema,,194b Chamberlyne Road,NW10 3JU ,Brent,,202195465,E09000005,Brondesbury Park,E05013498,51.537587,-0.22262169,523365.3136999998,183572.7204,91
+Kiln Cinema (formerly Tricycle),,269 Kilburn High Road,NW6 7JR,Brent,,202124574,E09000005,Kilburn,E05013503,51.542973,-0.20015978,524908.2834000001,184209.73740000091,91
+Cineworld Wembley ,,Wembley Park Blvd,HA9 0FD,Brent,www.cineworld.co.uk,202206309,E09000005,Wembley Park,E05013516,51.556685,-0.28350333,519093.4001000002,185595.72589999996,91
+Brent Artists Resource,4â„5Â Queenâ€™s Parade,,,Brent,http://www.brentartistsresource.org.uk/#,202054057,E09000005,Willesden Green,E05013517,51.5471635,-0.22221816,523367.4036999997,184638.33449999988,91
+Brent Artists Resource Company,Bar Lab,4-5 Queens Parade,Walm Lane,Brent,http://www.brentartistsresource.org.uk/,202192120,E09000005,Willesden Green,E05013517,51.54723606,-0.222258604,523364.40330000035,184646.33520000055,91
+The Granville,140 Carlton Vale,Kilburn,,Brent,https://thegranville.org/workspace/,202224307 ,E09000005,Kilburn,E05013503,51.532724,-0.19739206,525128.2978999997,183074.74929999933,91
+Wow Wembley,284 Water Road,,,Brent,https://www.wowworkspaces.co.uk/locations/wow-wembley,202033181 ,E09000005,Alperton,E05013496,51.540142,-0.28861053,518782.4003999997,183747.7951999996,91
+Federation of Patidar Associations,22 London Road,,,Brent,https://www.patidars.org/,202073653,E09000005,Wembley Hill,E05013515,51.55229548,-0.294982599,518309.00989999995,185089.00420000032,91
+Kiln Theatre ,269 Kilburn High Road,,,Brent,http://www.tricycle.co.uk,202079064,E09000005,Kilburn,E05013503,51.54331474,-0.200005991,524918.0116999997,184248.00210000016,91
+Patidar House Studios,22 London Road,,,Brent,https://www.patidars.org/,202073653,E09000005,Wembley Hill,E05013515,51.55229548,-0.294982599,518309.00989999995,185089.00420000032,91
+Capital City Academy,Doyle Gardens,Willesden,,Brent,http://www.capitalcityacademy.org/224/hire-our-facilities,202191532,E09000005,Roundwood,E05013509,51.53996598,-0.232901653,522646.01219999976,183820.00180000067,91
+ Kiln Theatre ,269 Kilburn High Road,,,Brent,http://www.tricycle.co.uk,202079064,E09000005,Kilburn,E05013503,51.54331474,-0.200005991,524918.0116999997,184248.00210000016,91
+The Granville,140 Carlton Vale, South Kilburn,,Brent,https://thegranville.org/venue-hire/, 202224307,E09000005,Kilburn,E05013503,51.532724,-0.19739206,525128.2978999997,183074.74929999933,91
+Pirate Studios - Wembley ,278 Abbeydale Road,,,Brent,https://pirate.com/en/locations/london-wembley/, 202137355,E09000005,Alperton,E05013496,51.538754,-0.28468273,519058.4006000003,183599.81739999913,91
+Plus Samples Ltd,Unit B1 Summer Court,1 Maybury Gardens,,Brent,http://www.plussamples.co.uk/,202207163,E09000005,Roundwood,E05013509,51.54699302,-0.233754222,522568.0120000001,184600.0019000005,91
+Grade House,Sage Brent,45-47 Alperton Lane,,Brent,https://www.gradehouseltd.com/about,202135826,E09000005,Alperton,E05013496,51.53536557,-0.298902991,518081.01219999976,183200.0019000005,91
+Sample House,"Sage Brent, Alperton Ln, London HA0 1DX",,,Brent,https://www.sample-studio.co.uk,202135826,E09000005,Alperton,E05013496,51.535364,-0.29892612,518079.41220000014,183199.7899999991,91
+Intimate Apparel Samples,"224-226 Oxgate House, Oxgate Lane, Brent Cross, Lo",,,Brent,https://intimateapparelsamples.com,202231913.00,E09000005,Dollis Hill,E05013500,51.568037,-0.23169358,522654.2790999999,186943.58960000053,91
+Rathy Jewellers Limited,28 Ealing Road,Wembley,,Brent,https://www.rathyjewellers.com/,202102528,E09000005,Wembley Central,E05013514,51.5505984,-0.29735619,518148.8406999996,184896.45600000024,91
+Bare Grillz London Ltd,864 Dental Lab,129b Carlton Avenue East,,Brent,,202120436,E09000005,Preston,E05013506,51.56905232,-0.292380661,518445.9221000001,186956.63910000026,91
+Hirji Lakha & Bros. (U.K.) Limited," 7-9 Ealing Rd, Wembley HA0 4AA",,,Brent,,202102549,E09000005,Wembley Central,E05013514,51.55153,-0.29871,518052.574,184997.8694000002,91
+Wembley Library,,,,Brent,,,E09000005,Wembley Park,E05013516,51.55840914,-0.27988313,519339.84750000015,185793.34940000065,91
+Kilburn,,,,Brent,,202046410,E09000005,Queens Park,E05013507,51.53460692,-0.203802273,524678.5648999996,183273.20069999993,91
+Harlesden,,,,Brent,,202110706,E09000005,Harlesden & Kensal Green,E05013501,51.53817576,-0.248902211,521541.2281999998,183594.26099999994,91
+Willesden Green,,,,Brent,,202216288,E09000005,Brondesbury Park,E05013498,51.54614396,-0.22734961,523014.3651999999,184516.32489999942,91
+Ealing Road,,,,Brent,,202102174,E09000005,Wembley Central,E05013514,51.54902978,-0.295856874,518256.8551000003,184724.4366999995,91
+Barham Park,,,,Brent,,202209694,E09000005,Wembley Central,E05013514,51.55167842,-0.309851801,517279.74980000034,184996.4751999993,91
+Cricklewood,,,,Brent,,202217896,E09000005,Cricklewood & Mapesbury,E05013499,51.556355,-0.225798393,523094.3821999999,185654.4218000006,91
+Preston,,,,Brent,,202120286,E09000005,Preston,E05013506,51.56968996,-0.294175125,518319.91060000006,187024.64489999972,91
+Kingsbury,,,,Brent,,202078174,E09000005,Queensbury,E05013508,51.58552355,-0.274858006,519616.9955000002,188816.82939999923,91
+Create Space London,Create Space London,Former Willesden Green Police Station,,Brent,www.createspacelondon.org/,202086681,E09000005,Willesden Green,E05013517,51.54717167,-0.230689673,522780.01180000044,184625.00290000066,91
+Fashion Workspace,Fashion Workspace,Kilburn Bridge House,69-71 Kilburn High,Brent,http://www.fashionworkspace.co.uk/our-space/,202191878,E09000005,Kilburn,E05013503,51.53741803,-0.193144235,525410.0121999998,183604.00249999948,91
+London Fashion Studios,London Fashion Studios,"1st Floor, Kilburn Bridge House",69-71 Kilburn High,Brent,http://www.londonfashionstudios.co.uk/,202079338,E09000005,Kilburn,E05013503,51.53740904,-0.193144591,525410.0121999998,183603.0022,91
+London Hackspace,Ujima House,388 High Road,,Brent,https://london.hackspace.org.uk/ ,10091987448,E09000005,Wembley Hill,E05013515,51.553902,-0.28996936,518652.39609999955,185275.75879999995,91
+DeGross Design & Innovation,Office 17,"11th Floor, Wembley Point",1 Harrow Road,Brent,https://www.degross.co.uk,202206446,E09000005,Stonebridge,E05013510,51.54410801,-0.272328803,519901.0563000003,184215.3507000003,91
+Brent Museum and Archives,Willesden Library Centre,95 High Rd,NA,Brent,https://www.brent.gov.uk/museum,202149110,E09000005,Brondesbury Park,E05013498,51.54614396,-0.22734961,523014.3651999999,184516.32489999942,91
+Harlesden High Street,57 High Street,Harlesden,NA,Brent,https://harlesdenhighstreet.com/,202086111,E09000005,Harlesden & Kensal Green,E05013501,51.535877,-0.24704201,521676.3552000001,183341.71780000068,91
+OVO Arena Wembley (SSE),Arena Square; Empire Way; Wembley; London HA9 0DH;,Engineers Way ,Arena Square,Brent,OVO Arena Wembley,0,E09000005,Wembley Park,E05013516,51.558178,-0.282724,519143.5295000002,185763.01850000024,91
+Wembley Stadium,"South Way, London",,,Brent,Home | Wembley Stadium,0,E09000005,Wembley Park,E05013516,51.55552194,-0.27792676,519483.0114000002,185475.47580000013,91
+Karma Ealing,10 High St; Ealing; London W5 5JY; United Kingdom,,,Brent,www.karmaealing.com/,,E09000005,Harlesden & Kensal Green,E05013501,51.53747,-0.248884,521544.37069999985,183515.80849999934,91
+Space NW10,"71-73 High Street, Harlesden, London, NW10",,,Brent,,,E09000005,Harlesden & Kensal Green,E05013501,51.535954,-0.24628,521728.9951999998,183351.54560000077,91
+Masons Arms,665 Harrow Road; Kensal Green; London NW10 5NU; Un,,,Brent,www.themasonsarmsnw10.co.uk,202001640,E09000005,Queens Park,E05013507,51.530032,-0.227299,523061.3141999999,182724.7148000002,91
+Fiddler (The),229 Kilburn High Road,,,Brent,https://www.thefiddlerlive.com,,E09000005,Kilburn,E05013503,51.542230012,-0.198469972,525027.4918999998,184129.9991999995,91
+The Good Ship,"289 Kilburn High Road, Brondesbury",,,Brent,,,E09000005,Kilburn,E05013503,51.543749986,-0.200439971,524886.7281,184295.66229999997,91
+Masons Arms,665 Harrow Road; Kensal Green; London NW10 5NU; Un,,,Brent,www.themasonsarmsnw10.co.uk,202001640,E09000005,Queens Park,E05013507,51.530032,-0.227299,523061.3141999999,182724.7148000002,91
+Fiddler (The),229 Kilburn High Road,,,Brent,https://www.thefiddlerlive.com,,E09000005,Kilburn,E05013503,51.542230012,-0.198469972,525027.4918999998,184129.9991999995,91
+The Good Ship,"289 Kilburn High Road, Brondesbury",,,Brent,,,E09000005,Kilburn,E05013503,51.543749986,-0.200439971,524886.7281,184295.66229999997,91
+Karma Ealing,10 High St; Ealing; London W5 5JY; United Kingdom,,,Brent,www.karmaealing.com/,,E09000005,Harlesden & Kensal Green,E05013501,51.53747,-0.248884,521544.37069999985,183515.80849999934,91
+Battery Studio,1 Maybury Gardens,Willesdon,,Brent,https://milocostudios.com/studios/assault-&-battery-2/intro/,202069888,E09000005,Willesden Green,E05013517,51.54616751,-0.232502704,522657.00540000014,184510.29849999957,91
+Residents Studio,57a Windsor Road,,,Brent,www.residentstudios.com/,12133205,E09000005,Willesden Green,E05013517,51.54961531,-0.230759114,522768.62090000045,184896.62670000084,91
+Produbbing,"Unit 17, The Quadrant",135 Salusbury Road,,Brent,http://www.produbbing.com,202014691,E09000005,Queens Park,E05013507,51.53997939,-0.206374199,524485.5367999999,183866.25709999911,91
+3Sixty Studios,"Unit 17, Sapcote Trading Centre High Road",,,Brent,www.3sixtystudios.co.uk,202040336,E09000005,Roundwood,E05013509,51.54967876,-0.241118082,522050.2538999999,184886.3640999999,91
+Ten Eight Seven Mastering Ltd,21 Greenford Road,Harrow,,Brent,,100021266373,E09000005,Sudbury,E05013511,51.56050657,-0.331614468,515748.6414999999,185943.57279999927,91
+Rogue Recording Studios,Unit 24 Wembley Stadium Business Centre,N End Rd,Wembley,Brent,https://www.roguerecordingstudios.com/, 202001610,E09000005,Wembley Park,E05013516,51.56106,-0.27276369,519826.3816999998,186099.77080000006,91
+Audiohaus," Unit 24, Wembley Stadium Business Park",,,Brent,http://www.audiohaus.co.uk/, 202001610,E09000005,Wembley Park,E05013516,51.56106,-0.27276369,519826.3816999998,186099.77080000006,91
+The Park Studios (London) ,"Unit 2, Towers Business Park",Carey Way,,Brent,https://www.theparkstudios.com/,202036652,E09000005,Wembley Park,E05013516,51.556154,-0.27121849,519946.3809000002,185556.73090000078,91
+Pirate Studios - Wembley ,278 Abbeydale Road,,,Brent,https://pirate.com/en/locations/london-wembley/, 202137355,E09000005,Alperton,E05013496,51.538754,-0.28468273,519058.4006000003,183599.81739999913,91
+Hazey Studios,Oxgate Lane,,,Brent,https://www.hazeystudios.com/,See notes ,E09000005,Dollis Hill,E05013500,51.56691,-0.23233,522613.20469999965,186817.19889999926,91
+Resident Studios,57a Windsor Road,Willesden,,Brent,www.residentstudios.com,202030058,E09000005,Willesden Green,E05013517,51.549604,-0.230763696,522768.33359999955,184895.36130000092,91
+Residents Studio,57a Windsor Road,,,Brent,www.residentstudios.com/,202030059,E09000005,Willesden Green,E05013517,51.550108,-0.23236004,522656.30260000005,184948.73179999925,91
+Pirate Studios - Wembley ,278 Abbeydale Road,,,Brent,https://pirate.com/en/locations/london-wembley/,202137355,E09000005,Alperton,E05013496,51.538754,-0.28468273,519058.4006000003,183599.81739999913,91
+303 Hire,D link House,1 Abbey Road,,Brent,http://www.303hire.com,202142808,E09000005,Stonebridge,E05013510,51.53812684,-0.274732981,519750.0432000002,183546.28910000063,91
+Film Medical,5-7  Commercial Way,,,Brent,http://filmmedical.co.uk,202108303,E09000005,Stonebridge,E05013510,51.53212128,-0.269985321,520095.0864000004,182886.2190000005,91
+Prop Hire and Deliver,Popin Business Centre,Unit 20  South Way,,Brent,http://www.prophireanddeliver.com/,202054543,E09000005,Tokyngton,E05013512,51.55443582,-0.273784064,519773.0407999996,185361.46330000088,91
+Stockyard Backdrops,Unit A Genesis Business Park,Rainsford Road,,Brent,https://www.prophire-backdrophire.com,202191752,E09000005,Stonebridge,E05013510,51.53317767,-0.276376544,519649.0360000003,182993.2368999999,91
+Superhire,D Link House,1 Abbey Road,,Brent,http://www.superhire.com,202142808,E09000005,Stonebridge,E05013510,51.53812684,-0.274732981,519750.0432000002,183546.28910000063,91
+Electro Props,13 Commercial Way,Park Royal,,Brent,http://electroprops.co.uk,202108295,E09000005,Stonebridge,E05013510,51.53324,-0.27169744,519973.3975999998,183007.81980000064,91
+Abbey Fabrics,Prop House,Abbey Road,,Brent,www.abbeyfabrics.co.uk,202142808,E09000005,Stonebridge,E05013510,51.538631,-0.27632385,519638.39639999997,183599.7547999993,91
+Theme Traders,Production Village,Turpins Yard,Oaklands Road,Brent,https://www.themetraders.com/,202036714,E09000005,Cricklewood & Mapesbury,E05013499,51.554625,-0.21771668,523659.2999,185475.66149999946,91
+Exib,Unit 1,Fourth Way,,Brent,http://www.exib.co.uk,202096971,E09000005,Wembley Park,E05013516,51.55916233,-0.270459745,519991.06790000014,185892.51300000027,91
+TAIT,"Unit 9, Falcon Park",Neasden Lane,,Brent,http://www.taittowers.com,202009207,E09000005,Dollis Hill,E05013500,51.55390806,-0.247288163,521611.2117999997,185346.41840000078,91
+RDW Scenery ,Unit A Genesis Business Park,Rainsford Road,,Brent,https://www.scenery-construction.com/,202191752,E09000005,Stonebridge,E05013510,51.53317767,-0.276376544,519649.0360000003,182993.2368999999,91
+Scenic Sets,Stadium Business Center ,Unit 45 North End Road,,Brent,http://www.scenicsets.com,202001588,E09000005,Wembley Park,E05013516,51.56019152,-0.270117696,520012.06850000005,186007.52569999918,91
+Stockyard Backdrops,Unit A Genesis Business Park,Rainsford Road,,Brent,https://www.prophire-backdrophire.com,202191752,E09000005,Stonebridge,E05013510,51.53317767,-0.276376544,519649.0360000003,182993.2368999999,91
+Fashion Formula,Drakeglen House,35-36 Disraeli Road,,Brent,http://www.fashion-formula.com/,202105732,E09000005,Stonebridge,E05013510,51.5341641,-0.261558546,520674.1487999996,183127.23509999923,91
+Fashion Formula,"Unit 14, Sapcote Trading Estate, High Rd",,,Brent,http://www.fashion-formula.com,202040339,E09000005,Roundwood,E05013509,51.550533,-0.24269974,521938.3158,184978.7251999993,91
+The Kiln Theatre,269 Kilburn High Road,,,Brent,www.tricycle.co.uk,202079064,E09000005,Kilburn,E05013503,51.54372535,-0.20039359,524890.0115,184293.00180000067,91
+Troubadour Wembley Park Theatre,3 Fulton Rd,Wembley Park,,Brent,https://www.troubadourtheatres.com/wembley-park/hires,202228835,E09000005,Wembley Park,E05013516,51.561248,-0.28194652,519189.40490000043,186105.6841000002,91
+Troubadour Wembley Park Theatre,3 Fulton Road,Wembley Park,Wembley,Brent,https://www.troubadourtheatres.com/wembley-park,202228835,E09000005,Wembley Park,E05013516,51.56085054,-0.281788454,519201.39969999995,186061.74090000056,91
+The Kiln,269 Kilburn High Rd, Kilburn,,Brent,https://kilntheatre.com/,202124574,E09000005,Kilburn,E05013503,51.54423111,-0.201993562,524777.6868000003,184346.51579999924,91

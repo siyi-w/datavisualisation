@@ -1,0 +1,71 @@
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+.map-overlay {
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 17%;
+    min-width: 200px;
+    max-width: 350px;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
+
+.map-overlay .map-overlay-inner {
+    background-color: #fff;
+    box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 3px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font: bold 18px Tahoma, Arial, sans-serif;
+}
+
+.map-overlay p {
+    line-height: 130%;
+}
+
+.map-overlay table {
+    border: none;
+    width: 100%;
+}
+
+.map-overlay h2 {
+    line-height: 24px;
+    display: block;
+    margin: 0 0 10px;
+}
+
+#legendValues {
+    min-width: 70px;
+    min-height: 250px;
+    margin: 0 0 0 10px;
+}
+
+#legendValues tr {
+    margin: 5px 0 10px 0;
+    min-height: 50px;
+    min-width: 70px;
+}
+
+#legendValues tr td.colsq {
+    min-width: 8px;
+    min-height: 25px;
+    font: normal 10px Tahoma, Arial, sans-serif;
+    margin: 5px 4px 5px 0;
+}
+
+#legendValues tr td.value {
+    min-width: 42px;
+    font: bold 12px Tahoma,Arial,sans-serif;
+    color: #555;
+}
+
+#legendValues tr.spacer td {
+    font: normal 1px Tahoma,Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}

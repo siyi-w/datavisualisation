@@ -1,0 +1,41 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing,fme_feature_type.total_count
+Bexley Local Studies and Archive Centre,Central Library ,Townley Road  ,DA6 7HJ,Bexley,https://www.bexley.gov.uk/services/archives-and-local-history,100023000000,E09000004,Bexleyheath,E05011219,51.45599566,0.143775809,549040.0135000004,175181.00459999964,40
+Lakeside Centre (Bow Arts),Southmere Lake Complex,2 Bazalgette Way,,Bexley,https://bowarts.org/studios/lakeside-centre-thamesmead,100023523412,E09000004,Thamesmead East,E05011232,51.501066,0.12406322,547525.0546000004,180152.8610999994,40
+Thamesmead Live/Work (Bow Arts),Lakeside Centre,London,,Bexley,https://bowarts.org/studios/low-cost-accommodation,100023523412,E09000004,Thamesmead East,E05011232,51.501066,0.12406322,547525.0546000004,180152.8610999994,40
+Cineworld Bexleyheath,,28-70 Broadway,DA6 7LL,Bexley,www.cineworld.co.uk,10011845030,E09000004,Bexleyheath,E05011219,51.45616,0.15028,549491.3316000002,175212.52600000054,40
+Lakeside Centre (Bow Arts),Southmere Lake Complex,2 Bazalgette Way,,Bexley,https://bowarts.org/studios/lakeside-centre-thamesmead,100023523412,E09000004,Thamesmead East,E05011232,51.501066,0.12406322,547525.0546000004,180152.8610999994,40
+Sapphire Studios,First Floor ,4-12 Pickford Lane,,Bexley,http://www.sapphirestudios.co.uk/contact/,100024000000,E09000004,Crook Log,E05011223,51.46404348,0.132981338,548264.0121999998,176054.00249999948,40
+Blue I Studio,Thames Innovation Centre,2 Veridon Way,,Bexley,https://www.blue-i-studio.co.uk/contact-us/,10011862856,E09000004,Thamesmead East,E05011232,51.49586325,0.14220427,548801.0100999996,179611.0047999993,40
+Sidcup Library,,,,Bexley,,100022918511,E09000004,Sidcup,E05011230,51.42531937,0.106637863,546558.1523000002,171694.99750000052,40
+Bexley Community Library,,,,Bexley,,100022922056,E09000004,St Mary's & St James,E05011229,51.44224098,0.152449184,549687.5445999997,173669.1799999997,40
+Blackfen Community Library,,,,Bexley,,10023305013,E09000004,Blendon & Penhill,E05011221,51.44966601,0.106032019,546438.1518000001,174401.07200000063,40
+Crayford Library,,,,Bexley,,10090792770,E09000004,Crayford,E05011222,51.44939192,0.181716274,551697.6452000001,174524.5142000001,40
+Central Library,,,,Bexley,,100022922362,E09000004,Bexleyheath,E05011219,51.45547478,0.145384246,549153.4524999997,175126.3565999996,40
+Welling Library,,,,Bexley,,100022920830,E09000004,Falconwood & Welling,E05011226,51.46201211,0.107780415,546520.0937999999,175777.4293000009,40
+North Heath Community Library,,,,Bexley,,10011846473,E09000004,Northumberland Heath,E05011228,51.47278049,0.162930989,550315.5663000001,177086.56269999966,40
+Slade Green Community Library,,,,Bexley,,10090794390,E09000004,Slade Green & Northend,E05011231,51.47260377,0.192596225,552376.2847999996,177128.19370000064,40
+Bostall Community Library,,,,Bexley,,100022923151,E09000004,West Heath,E05011233,51.47518169,0.131517747,548126.2646000003,177289.58689999953,40
+Erith Library,,,,Bexley,,10023303354,E09000004,Slade Green & Northend,E05011231,51.47860538,0.182997078,551689.767,177775.64800000004,40
+Upper Belvedere Community Library,,,,Bexley,,100022921251,E09000004,Belvedere,E05011218,51.4834101,0.14685388,549164.3805999998,178235.6860000007,40
+Thamesmead Library,,,,Bexley,,100020239019,E09000004,Thamesmead East,E05011232,51.49981378,0.124208362,547539.1716999998,180013.9059999995,40
+The Whitewall Company,The Old Cannon Factory,10A Europa Estate Fraser Road,,Bexley,http://thewhitewall.co.uk,100023523207,E09000004,Erith,E05011225,51.48254702,0.172223312,550928.6595999999,178191.69150000066,40
+Maybrey Reliance,Reliance House,Crabtree Manorway South,,Bexley,https://www.maybrey.co.uk,No UPRN,E09000004,Belvedere,E05011218,51.49259016,0.16022355,550062.4883000003,179283.7935000006,40
+Crossness Engines,The Old Works. Thames Water S.T.W.,Bazalgette Way,Abbey Wood,Bexley,http://www.crossness.org.uk/,10091915267,E09000004,Thamesmead East,E05011232,51.50529066,0.13561791,548313.2433000002,180645.9768000003,40
+Hall Place and Gardens,Bourne Road,Bexley,Kent,Bexley,https://www.hallplace.org.uk/,100020195288,E09000004,Crayford,E05011222,51.44750903,0.16186577,550324.6211999999,174274.2463000007,40
+Gallery No.32,Manor Way,Bexley,,Bexley,https://www.galleryno32.co.uk/,No UPRN found,E09000004,St Mary's & St James,E05011229,51.43838545,0.1443602,549137.9828000003,173223.96660000086,40
+Cygnet Sq (TACO!),"Cygnet Sq, SE2 9FA",,,Bexley,https://taco.org.uk/Cygnet-Square,10094789589,E09000004,Thamesmead East,E05011232,51.49767,0.12293996,547458.0597000001,179772.96220000088,40
+Visionary Studios ,Unit F11a Birch House,Birch Walk,Erith,Bexley,https://visionarystudios.co.uk/, 100022923347,E09000004,Erith,E05011225,51.480791,0.16614078,550512.1102999998,177983.90799999982,40
+Abbey Music Studios,Lodge Hill,Abbey Wood,,Bexley,www.abbeymusicstudios.co.uk,10010234363,E09000004,West Heath,E05011233,51.4773226,0.117603433,547153.1533000004,177499.61500000022,40
+St Andrew's Church,St Andrew's Road,Sidcup,,Bexley,www.sidcupsymphony.org.uk,10011847236,E09000004,Sidcup,E05011230,51.431743,0.12685978,547943.1936999997,172449.8906999994,40
+TACO! (Thamesmead Arts and Culture Office),Cygnet Sq,,,Bexley,https://taco.org.uk/Cygnet-Square,10094789589,E09000004,Thamesmead East,E05011232,51.49767,0.12293996,547458.0597000001,179772.96220000088,40
+The Magic Mart,42 Christchurch Road,,,Bexley,http://www.johnstylesentertainer.co.uk,48014846,E09000004,Longlands,E05011227,51.42966716,0.099917271,546077.0880000005,172165.04429999925,40
+Diagon ,Chaucer House,12 Viking Way,Erith,Bexley,http://www.diagonltd.com,10094789586,E09000004,Belvedere,E05011218,51.49259016,0.16022355,550062.4883000003,179283.7935000006,40
+The Whitewall Company,The Old Cannon Factory,10A Europa Estate Fraser Road,,Bexley,http://thewhitewall.co.uk,100023523207,E09000004,Erith,E05011225,51.48254702,0.172223312,550928.6595999999,178191.69150000066,40
+Diagon,12 Viking Way,Erith,,Bexley,http://www.diagonltd.com,10011847610,E09000004,Erith,E05011225,51.491845,0.16752912,550572.0735999998,179215.92320000008,40
+Illusion Design & Construct,Unit 8A Fisher's Way,Belvedere,,Bexley,N/A,10094789120,E09000004,Belvedere,E05011218,51.500702,0.1661051,550444.0278000003,180197.85029999912,40
+Rose Bruford College,Lamorbey House,Burnt Oak Lane,,Bexley,https://www.bruford.ac.uk/,10011845091,E09000004,Blackfen & Lamorbey,E05011220,51.4392706,0.106472282,546502.0130000003,173246.0014999993,40
+Geoffrey Whitworth Theatre,Beech Walk, Crayford,,Bexley,https://www.thegwt.org.uk/about-us/,100022918313,E09000004,Crayford,E05011222,51.455261,0.19030911,552275.1416999996,175194.95150000043,40
+Edward Alderton Theatre,5 Brampton Rd, Bexleyheath,,Bexley,http://www.edwardalderton.org/,10011844980,E09000004,Crook Log,E05011223,51.46207495,0.125228844,547731.8883999996,175819.4480000008,40
+Rose Theatre,Lamorbey House, Burnt Oak Lane,,Bexley,https://www.bruford.ac.uk/,10011845091,E09000004,Blackfen & Lamorbey,E05011220,51.43979204,0.104842345,546387.0696,173300.72890000045,40
+Erith Playhouse,38-40 Erith High St, Erith,,Bexley,http://www.playhouse.org.uk/,10011845592,E09000004,Erith,E05011225,51.48217556,0.179388845,551427.3987999996,178165.1754999999,40
+Geoffrey Whitworth Theatre,Beech Walk, Crayford,,Bexley,http://www.thegwt.org.uk/,100022918313,E09000004,Crayford,E05011222,51.45605783,0.188377569,552138.3113000002,175279.55069999956,40
